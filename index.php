@@ -22,12 +22,11 @@
 
   <section class="">
     <div class="design__in--mind">
-      <div class="col-lg-10 mx-auto text-center">
-        <h2 class="text-white">
-          Experts in design,<br>
-          Technology and data
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="text-white index__header">
+          We are a creative agency that specializes in branding and digital marketing.
         </h2>
-        <a href="" class="btn our__team mt-3"> 
+        <a href="" class="btn our__team mt-4"> 
           Our Team
         </a>
       </div>
@@ -37,11 +36,11 @@
 
     <section class="big__impact-sec">
     <div class="big__impact">
-      <div class="col-lg-10 mx-auto text-center">
-        <p class="text-uppercase">srategy + heart + imagination</p>
-        <h1 class="beutiful__text">
-        We create beutiful designs <br>
-        to reach your audience with <br>
+      <div class="col-lg-8 mx-auto text-center">
+        <p class="text-uppercase _22caps">srategy + heart + imagination</p>
+        <h1 class="beutiful__text lightlarge">
+        We create beutiful designs 
+        to reach your audience with 
         lasting impact.
         </h1>
         <a href="" class="btn learn__more mt-3"> Learn more</a>
@@ -58,25 +57,25 @@
             <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/Yahoo.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/Salesforce.org_.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/City-of-SJ.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
         </div>
       </div>

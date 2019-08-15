@@ -22,11 +22,10 @@
 
   <section class="big__impact-sec">
     <div class="big__impact">
-      <div class="col-lg-10 mx-auto text-center">
-        <p class="text-uppercase">we have the best design for you</p>
-        <h2 class="">
-          Big or small project... <br>
-          We deliver
+      <div class="col-lg-8 mx-auto text-center">
+        <p class="text-uppercase _22caps">Experts in Design, Technology and Data</p>
+        <h2 class="lightlarge">
+          Strategic minds + Creative hearts + <div class="mt-3">Technical muscle</div>
         </h2>
         <a href="" class="btn learn__more mt-3"> Learn more</a>
       </div>
@@ -39,8 +38,8 @@
   
 
   <section class="wheather">
-    <div class="col-lg-6 mx-auto">
-      <p class="text-center pb-3">
+    <div class="col-lg-8 mx-auto">
+      <p class="text-center pb-3 _36light line">
         whether you are building a new website, launching a multi-layed digital campaign, designing a new app or
         simply need help simplyfying your business solutions, we are here to help.
       </p>
@@ -50,7 +49,7 @@
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
             <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers">design</h4>
+            <h4 class="text-uppercase text-center headers mt-3 mb-3">design</h4>
             <p class="text-left">whether you need help designing a logo,
               print collatteral or web design, our goal is to communicate your needs to your audience.</p>
 
@@ -75,7 +74,7 @@
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
             <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers">development</h4>
+            <h4 class="text-uppercase text-center headers mt-3 mb-3">development</h4>
             <p class="text-left">whether you need help designing a logo,
               print collatteral or web design, our goal is to communicate your needs to your audience.</p>
 
@@ -97,7 +96,7 @@
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
             <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers">bussiness</h4>
+            <h4 class="text-uppercase text-center headers mt-3 mb-3">bussiness</h4>
             <p class="text-left">Something about prime real estate firt page of google search, correct details on directory sites so customers can reach you, engage with newsletters.</p>
 
             <div class="row text-left">
@@ -122,7 +121,7 @@
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
             <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers">it managed service</h4>
+            <h4 class="text-uppercase text-center headers mt-3 mb-3">it managed service</h4>
             <p class="text-left">Value for money equipment, keep data safe, no IT headaches with support connectivity in every corner of your office</p>
 
             <div class="row text-left">
@@ -144,7 +143,7 @@
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
             <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers">government</h4>
+            <h4 class="text-uppercase text-center headers mt-3 mb-3">government</h4>
             <p class="text-left">Govs looking to provide intuitive platforms to engage citizens, make payments easy</p>
 
             <div class="row text-left">
@@ -180,25 +179,25 @@
             <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/Yahoo.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/Salesforce.org_.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
            <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/City-of-SJ.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
           </div>
         </div>
       </div>
@@ -212,7 +211,7 @@
       <div class="work__with--us-div "></div>
       <div class="border__padding">
         <h2 class="text-uppercase headers">work with us</h2>
-      <p class="pt-2">Seeking passionate clients who want to make an impact with their brand</p>
+      <p class="pt-2 talent">Seeking passionate clients who want to make an impact with their brand</p>
       <a href="" class="contact__us btn">Contact us!</a>
       </div>
     </div>
@@ -224,6 +223,7 @@
   <?php include 'footer.php'; ?>
   <!-- Footer -->
   <!-- /Start your project here-->
+
 
   <!-- SCRIPTS -->
   <!-- JQuery -->

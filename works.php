@@ -25,8 +25,8 @@
   <section class="">
     <div class="our__work">
       <div class="col-lg-10 mx-auto text-center">
-        <p class="text-uppercase">our work</p>
-        <h2 class="">
+        <p class="text-uppercase _20sbg">our work</p>
+        <h2 class="_58light">
           Every project is customised to meet your goals. <br> to meet your goals.
           Get in touch
         </h2>

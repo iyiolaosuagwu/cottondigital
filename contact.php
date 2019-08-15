@@ -26,11 +26,10 @@
 
   <section class="big__impact-sec">
     <div class="big__impact">
-      <div class="col-lg-10 mx-auto text-center">
-        <p class="text-uppercase">work with us</p>
-        <h2 class="">
-          Have the next big idea? <br>
-          Get in touch
+      <div class="col-lg-8 mx-auto text-center">
+        <p class="text-uppercase _22caps">work with us</p>
+        <h2 class="_58light">
+          But seriously, we’d love to work with you. Tell us a little more about your project and we’ll get back to you to talk details.
         </h2>
       </div>
     </div>
@@ -38,11 +37,11 @@
 
   <section class="tell__us">
     <div class="tell__us--heading col-lg-8 mx-auto">
-      <h3 class="text-center">
+      <h3 class="text-center _369light">
         Tell us a little more about your project and we will <br>
         have one of our experts contact you ASAP.
       </h3>
-      <p class="py-4 text-center info">
+      <p class="py-4 text-center info _34sb">
         info@cottondigital.io &nbsp;| &nbsp; 08093895270
       </p>
 
@@ -64,8 +63,8 @@
     </div>
   </section>
 
-  <section class="map">
-    <div class="col-lg-3 mx-auto text-center map__comment">
+  <section class="">
+    <!-- <div class="col-lg-3 mx-auto text-center map__comment">
       <a onclick="window.open('https://www.google.com/maps/place/9+Sabiu+Ajose+St,+Surulere,+Lagos/@6.4897792,3.3567014,17z/data=!3m1!4b1!4m5!3m4!1s0x103b8c0cd389a21f:0x8aaa3516a59469cd!8m2!3d6.4897792!4d3.3588901')">
         <img src="./img/Map - Address Comment Shape.svg" alt="" class="" width="100%">
       <img src="./img/Map - Location Dot - Black.svg" alt="" class="quadrat">
@@ -74,7 +73,9 @@
       </div>  
       </a>
     </div>
-    </div>
+    </div> -->
+
+    <div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=9%20Sabiu%20Ajose%20St%2C%20Surulere%2C%20Lagos&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.enable-javascript.net">website</a></div><style>.mapouter{position:relative;text-align:right;height:100%;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
   </section>
 
   <section class="talk__expert">

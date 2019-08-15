@@ -27,12 +27,10 @@
 
 		<section class="big__impact-sec">
 			<div class="big__impact">
-				<div class="col-lg-6 mx-auto text-center">
-					<p class="text-uppercase">small team with big impact</p>
-					<h2 class="beutiful__text">
-						We are a trusted tight-knit team of creatives, developers and
-						technical experts dedicated to buildign better apps, sites and tools
-						within your budget.
+				<div class="col-lg-8 mx-auto text-center">
+					<p class="text-uppercase _22caps">small team with big impact</p>
+					<h2 class="beutiful__text _58light">
+						We’re a tight-knit team of creatives making the world a more beautiful place…one design at a time.
 					</h2>
 				</div>
 			</div>
@@ -40,15 +38,15 @@
 
 		<section class="">
 			<div class="big__impact-section">
-				<div class="col-lg-6 mx-auto text-center">
-					<p class="">
+				<div class="col-lg-8 mx-auto text-center">
+					<p class="_36light line">
 						Cotton Digital isacomplete digital and design that creates unique,
 						meaningful brand experiences for today's connected consumer. Our
 						in-house experts leverage the latest techonology to create best in
 						class strategies for brand, design & developement, and digital
 						marketing.
 					</p>
-					<p class="">
+					<p class="_20lightn">
 						Our expert team of talented individuals will work to solve your
 						problems and create a world-class product for you and your users.
 					</p>
@@ -56,7 +54,7 @@
 			</div>
 
 			<div class="we__promise text-center col-lg-8 mx-auto">
-				<h3 class="we__promise--header py-5 text-bold headers">We promise</h3>
+				<h3 class="we__promise--header text-uppercase py-5 text-bold headers">We promise</h3>
 				<div class="bordar__width"></div>
 
 				<div class="row">
@@ -77,7 +75,7 @@
 				<div class="join__the--team">
 					<div class="text-center">
 						<h3 class="text-uppercase text-bold headers">join the team</h3>
-						<p class="pt-2">
+						<p class="pt-3 talent">
 							We're always looking for new talent. Show us what you can do.
 						</p>
 						<a href="" class="btn btn-lg apply__btn">Apply now</a>
