@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,9 +19,9 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet" />
+  <link href="css/bootstrap.css" rel="stylesheet" />
   <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet" />
+  <link href="css/mdb.css" rel="stylesheet" />
   <!-- Your custom styles (optional) -->
   <link href="css/style.css" rel="stylesheet" />
 </head>
@@ -20,211 +30,252 @@
   <!-- Start your project here-->
   <?php include 'navbar.php'; ?>
 
-  <section class="big__impact-sec">
+  <section class="">
+    <div class="design__in--mind">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="text-white index__header">
+          We are a creative agency that specializes in branding and digital marketing.
+        </h2>
+        <a href="" class="btn our__team mt-4"> 
+          Our Team
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+    <section class="big__impact-sec">
     <div class="big__impact">
       <div class="col-lg-8 mx-auto text-center">
-        <p class="text-uppercase _22caps">Experts in Design, Technology and Data</p>
-        <h2 class="lightlarge">
-          Strategic minds + Creative hearts + <div class="mt-3">Technical muscle</div>
-        </h2>
+        <p class="text-uppercase _22caps">srategy + heart + imagination</p>
+        <h1 class="beutiful__text lightlarge">
+        We create beutiful designs 
+        to reach your audience with 
+        lasting impact.
+        </h1>
         <a href="" class="btn learn__more mt-3"> Learn more</a>
       </div>
     </div>
-    <div class="big__impact--backImg">
-
-    </div>
   </section>
 
-  
-
-  <section class="wheather">
-    <div class="col-lg-8 mx-auto">
-      <p class="text-center pb-3 _36light line">
-        whether you are building a new website, launching a multi-layed digital campaign, designing a new app or
-        simply need help simplyfying your business solutions, we are here to help.
-      </p>
-    </div>
-    <div class="col-lg-8 mx-auto">
-      <div class="row">
-        <div class="col-lg-6 text-black">
-          <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers mt-3 mb-3">design</h4>
-            <p class="text-left">whether you need help designing a logo,
-              print collatteral or web design, our goal is to communicate your needs to your audience.</p>
-
-            <div class="row text-left">
-              <div class="col-lg-6 ul-li">
-                <li>Lagos</li>
-                <li>Stationary</li>
-                <li>Packaging design</li>
-                <li>Web design></li>
-                <li>Mobile app design</li>
-              </div>
-              <div class="col-lg-6 ul-li">
-                <li>UI & UX design</li>
-                <li>Compony profile</li>
-                <li>Infographics</li>
-                <li>Print collateral</li>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-6 text-black">
-          <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers mt-3 mb-3">development</h4>
-            <p class="text-left">whether you need help designing a logo,
-              print collatteral or web design, our goal is to communicate your needs to your audience.</p>
-
-            <div class="row text-left">
-              <div class="col-lg-6 ul-li">
-                <li>Ecommerce</li>
-                <li>Payment solutions</li>
-                <li>Mobile apps</li>
-              </div>
-              <div class="col-lg-6 ul-li">
-                <li>Websites</li>
-                <li>Business Software</li>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-        <div class="col-lg-6 text-black">
-          <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers mt-3 mb-3">bussiness</h4>
-            <p class="text-left">Something about prime real estate firt page of google search, correct details on directory sites so customers can reach you, engage with newsletters.</p>
-
-            <div class="row text-left">
-              <div class="col-lg-6 ul-li">
-                <li>Search engine optimization(SEO)</li>
-                <li>SEO Audit</li>
-                <li>Domain Email</li>
-                <li>Email Newsletter</li>
-                <li>marketing</li>
-              </div>
-              <div class="col-lg-6 ul-li">
-                <li>Business Listing</li>
-                <li>Analytics</li>
-                <li>Digital marketing</li>
-                <li>Social media audit</li>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-        <div class="col-lg-6 text-black">
-          <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers mt-3 mb-3">it managed service</h4>
-            <p class="text-left">Value for money equipment, keep data safe, no IT headaches with support connectivity in every corner of your office</p>
-
-            <div class="row text-left">
-              <div class="col-lg-6 ul-li">
-                <li>Procurement</li>
-                <li>Cloud back up</li>
-                <li>System administration</li>
-              </div>
-              <div class="col-lg-6 ul-li">
-                <li>IT Support Service</li>
-                <li>Networking</li>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-        <div class="col-lg-6 text-black">
-          <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
-            <h4 class="text-uppercase text-center headers mt-3 mb-3">government</h4>
-            <p class="text-left">Govs looking to provide intuitive platforms to engage citizens, make payments easy</p>
-
-            <div class="row text-left">
-              <div class="col-lg-6 ul-li">
-                <li>Transparency tools</li>
-                <li>Payment platforms</li>
-              </div>
-              <div class="col-lg-6 ul-li">
-                <li>Recruitment platforms</li>
-                <li>Service portals</li>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-
-    
-      <section class="work__with--us-div col-lg-7 mx-auto"></section>
-    
-
-
-  <section class="brands text-center">
-    <!-- <h2 class="text-center text-uppercase mt-5 mb-5 headers"> brands who trust us</h2> -->
-    <div class="">
-      <h3 class="text-uppercase client__text mt-5">brands who trust us</h3>
-       <div class="col-lg-10 mx-auto">
+  <section class="our__clients">
+     <div class="project__listing text-center">
+      <div class="col-lg-10 mx-auto">
+        <h3 class="text-uppercase client__text">Our Clients</h3>
         <div class="row">
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/helios.png" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/babaji.png" class="py-4"/>
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/delano.png" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
-          </div>
-           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
-          </div>
-           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
-          </div>
-           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
-          </div>
-           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/LinkedIn.svg" class="py-4" />
+            <img alt="" width="80%" src="./img/inspired-by-kore.png" class="py-4" />
           </div>
         </div>
-      </div>
-
-      <div class="pt-5">
-        <a href="" class="view__more">View more </a>
-      </div>
-    </div>
-
-    <div class="work__with--us text-center col-lg-7 mx-auto">
-      <div class="work__with--us-div "></div>
-      <div class="border__padding">
-        <h2 class="text-uppercase headers">work with us</h2>
-      <p class="pt-2 talent">Seeking passionate clients who want to make an impact with their brand</p>
-      <a href="" class="contact__us btn">Contact us!</a>
       </div>
     </div>
   </section>
 
+  <section class="caro">
+    <!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+  <!--Indicators-->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="1"></li>
+    <li data-target="#carousel-example-2" data-slide-to="2"></li>
+  </ol>
+  <!--/.Indicators-->
+  <!--Slides-->
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption cap__caption">
+        <div  class="cap__caption">
+            <h1 class="caro__text">Reliable technical expertise</h1>
+        <a href="" class="btn view__case--study">View case study</a>  
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption cap__caption">
+        <div  class="cap__caption">
+            <h1 class="caro__text">Reliable technical expertise</h1>
+        <a href="" class="btn view__case--study">View case study</a>  
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption cap__caption">
+        <div  class="cap__caption">
+            <h1 class="caro__text">Reliable technical expertise</h1>
+        <a href="" class="btn view__case--study">View case study</a>  
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--/.Slides-->
+  <!--Controls-->
+  <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  <!--/.Controls-->
+</div>
+<!--/.Carousel Wrapper-->
+  </section>
+
+  <section class="some__work">
+    <h3 class="text-uppercase client__text">check out some of our work</h3>
+      <div class="col-lg-10 mx-auto">
+        <div class="row">
+          
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col__pad">
+            <div class="card card__height view overlay">
+              <div class="card__text--div">
+                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
+                <div class="mask rgba-blue-strong card__text">
+                    <h5 class="white-text card__text--one">Cotton Digital</h5>
+                    <p class="white-text card__text--two">Strong overlay</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div>
+
+        </div>
+      </div>
+  </section>
+
+  <style>
+    .some__work{
+      padding: 100px 0px;
+    }
+    .view__case--study{
+      border-radius: 50px;
+      background: #468cfc;
+    }
+    .view__case--study:hover{
+      border-radius: 50px;
+      background: #468cfc;
+      color: #fff;
+    }
+  </style>
 
 
   <!-- Footer -->
   <?php include 'footer.php'; ?>
   <!-- Footer -->
   <!-- /Start your project here-->
-
-
+    <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
   <!-- SCRIPTS -->
   <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
@@ -234,6 +285,11 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
+
+  <script>
+    MicroModal.show('modal-id'); // [1]
+    MicroModal.close('modal-id'); // [2]
+  </script>
 </body>
 
 </html>

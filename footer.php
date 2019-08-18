@@ -16,16 +16,15 @@
           <div class="col-4 mb-4 mb-md-0 float-right">
             <h2 class="mb-0 headers">FOLLOW US</h2>
 
-            <div class="flex d-flex">
-            <div class="social__icon">
-                <i class="fa fa-twitter iconns "></i>
-              </div>
+            <div class="flex d-flex" style="margin-top: 13px;">
               <div class="social__icon">
-                <i class="fa fa-facebook iconns "></i>
-              </div>
-              
+                  <i class="fa fa-twitter iconns "></i>
+                </div>
+                <div class="social__icon">
+                  <i class="fa fa-facebook iconns "></i>
+                </div>
+                
             </div>
-
 
             <div class="flex d-flex">
               <div class="social__icon">

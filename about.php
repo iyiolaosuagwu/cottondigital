@@ -14,9 +14,9 @@
 			href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
 		/>
 		<!-- Bootstrap core CSS -->
-		<link href="css/bootstrap.min.css" rel="stylesheet" />
+		<link href="css/bootstrap.css" rel="stylesheet" />
 		<!-- Material Design Bootstrap -->
-		<link href="css/mdb.min.css" rel="stylesheet" />
+		<link href="css/mdb.css" rel="stylesheet" />
 		<!-- Your custom styles (optional) -->
 		<link href="css/style.css" rel="stylesheet" />
 	</head>
@@ -27,10 +27,10 @@
 
 		<section class="big__impact-sec">
 			<div class="big__impact">
-				<div class="col-lg-8 mx-auto text-center">
-					<p class="text-uppercase _22caps">small team with big impact</p>
-					<h2 class="beutiful__text _58light">
-						We’re a tight-knit team of creatives making the world a more beautiful place…one design at a time.
+				<div class="col-lg-8 xl-6 mx-auto text-center" id="animate">
+					<p class="text-uppercase _22caps fadeIn line">small team with big impact</p>
+					<h2 class="beutiful__text _58light line">
+						We are a trusted tight-knit team of creatives, developers and technical experts dedicated to building better apps, sites and tools within your budget.
 					</h2>
 				</div>
 			</div>
@@ -40,15 +40,10 @@
 			<div class="big__impact-section">
 				<div class="col-lg-8 mx-auto text-center">
 					<p class="_36light line">
-						Cotton Digital isacomplete digital and design that creates unique,
-						meaningful brand experiences for today's connected consumer. Our
-						in-house experts leverage the latest techonology to create best in
-						class strategies for brand, design & developement, and digital
-						marketing.
+						Cotton Digital is a complete digital and design company that creates unique, meaningful brand experiences for today’s connected consumer. Our in-house experts leverage the latest technology to create best in class strategies for brand, design & development, and digital marketing.
 					</p>
-					<p class="_20lightn">
-						Our expert team of talented individuals will work to solve your
-						problems and create a world-class product for you and your users.
+					<p class="_20lightn line">
+						Our expert team of talented individuals will work to solve your problems and create a world-class product for you and your users.
 					</p>
 				</div>
 			</div>

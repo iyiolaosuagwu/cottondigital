@@ -9,9 +9,9 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet" />
+  <link href="css/bootstrap.css" rel="stylesheet" />
   <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet" />
+  <link href="css/mdb.css" rel="stylesheet" />
   <!-- Your custom styles (optional) -->
   <link href="css/style.css" rel="stylesheet" />
 
@@ -26,14 +26,32 @@
 
   <section class="big__impact-sec">
     <div class="big__impact">
-      <div class="col-lg-8 mx-auto text-center">
-        <p class="text-uppercase _22caps">work with us</p>
-        <h2 class="_58light">
-          But seriously, we’d love to work with you. Tell us a little more about your project and we’ll get back to you to talk details.
+      <div class="col-lg-8 mx-auto text-center" id="animate">
+        <p class="text-uppercase _22caps line">work with us</p>
+        <h2 class="_58light ">
+          <!-- Seeking Enterprise Clients &nbsp;| &nbsp;
+          Have the next big idea? get in touch &nbsp;| &nbsp;
+          Government agencies looking  -->
+          <!-- <span class="element">
+          
+          </span> -->
+          
         </h2>
+
+        <h1 class="line">
+          Seeking Enterprise Clients &nbsp;| &nbsp;
+          Have the next big idea? get in touch &nbsp;| &nbsp;
+           
+          <h2 href="" class="typewrite " data-period="2000" data-type='[ "Government agencies looking to deliver value to citizens. ", "&nbsp;| &nbsp; SME looking to upgrade digital assets" ]'>
+            <h2 class="wrap"></h2>
+          </h2>
+        </h1>
+        
       </div>
     </div>
   </section>
+
+
 
   <section class="tell__us">
     <div class="tell__us--heading col-lg-8 mx-auto">
@@ -75,11 +93,18 @@
     </div>
     </div> -->
 
-    <div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=9%20Sabiu%20Ajose%20St%2C%20Surulere%2C%20Lagos&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.enable-javascript.net">website</a></div><style>.mapouter{position:relative;text-align:right;height:100%;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
+    <!-- <div class="mapouter">
+      <div class="gmap_canvas">
+        <iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=9%20Sabiu%20Ajose%20St%2C%20Surulere%2C%20Lagos&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.enable-javascript.net">website</a></div><style>.mapouter{position:relative;text-align:right;height:100%;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style>
+    </div> -->
+
+    <!-- <div style="width: 100%"><iframe width="100%" height="500" src="https://maps.google.com/maps?width=100%&amp;height=500&amp;hl=en&amp;q=9%20Sabiu%20Ajose%20St%2C%20Surulere%2C%20Lagos+()&amp;ie=UTF8&amp;t=&amp;z=17&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/coordinates.html">gps coordinates</a></iframe></div><br /> -->
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.244646904885!2d3.3560463147705306!3d6.4906751953047666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8c0d3b19457f%3A0x9fdd5d8022edb9c0!2s9+Sabiu+Ajose+St%2C+Surulere%2C+Lagos!5e0!3m2!1sen!2sng!4v1566131102918!5m2!1sen!2sng" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
   </section>
 
   <section class="talk__expert">
-    <h3 class=" text-center text-bold ">
+    <h3 class=" text-center  text-uppercase have-a-project">
       have a project? talk to an expert
     </h3>
   </section>
@@ -91,8 +116,10 @@
   <!-- /Start your project here-->
 
 
-  
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
   <!-- SCRIPTS -->
+
+
   <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
   <!-- Bootstrap tooltips -->
@@ -103,6 +130,74 @@
   <script type="text/javascript" src="js/mdb.min.js"></script>
   <script type="text/javascript" src="js/parsley.min.js"></script>
 
+  <script>
+    var typed = new Typed('.element', {
+      strings: ["First sentence.", "to deliver value to citizens. &nbsp;| &nbsp; SME looking to upgrade digital assets"],
+      typeSpeed: 30
+    });
+  </script>
+
+  <script>
+    var TxtType = function(el, toRotate, period) {
+        this.toRotate = toRotate;
+        this.el = el;
+        this.loopNum = 0;
+        this.period = parseInt(period, 10) || 2000;
+        this.txt = '';
+        this.tick();
+        this.isDeleting = false;
+    };
+
+    TxtType.prototype.tick = function() {
+        var i = this.loopNum % this.toRotate.length;
+        var fullTxt = this.toRotate[i];
+
+        if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+        } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+
+        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+        var that = this;
+        var delta = 200 - Math.random() * 100;
+
+        if (this.isDeleting) { delta /= 2; }
+
+        if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+        } else if (this.isDeleting && this.txt === '') {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+        }
+
+        setTimeout(function() {
+        that.tick();
+        }, delta);
+    };
+
+    window.onload = function() {
+        var elements = document.getElementsByClassName('typewrite');
+        for (var i=0; i<elements.length; i++) {
+            var toRotate = elements[i].getAttribute('data-type');
+            var period = elements[i].getAttribute('data-period');
+            if (toRotate) {
+              new TxtType(elements[i], JSON.parse(toRotate), period);
+            }
+        }
+        // INJECT CSS
+        var css = document.createElement("style");
+        css.type = "text/css";
+        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
+        document.body.appendChild(css);
+    };
+  </script>
+
 </body>
 
 </html>
+
+<!-- info@cottndigital.io -->
