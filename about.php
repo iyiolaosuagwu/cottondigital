@@ -26,7 +26,7 @@
 		<?php include 'navbar.php'; ?>
 
 		<section class="big__impact-sec">
-			<div class="big__impact">
+			<div class="big__impact" style="background-image: url('../img/about_header_img.jpg');">
 				<div class="col-lg-8 xl-6 mx-auto text-center" id="animate">
 					<p class="text-uppercase _22caps fadeIn line">small team with big impact</p>
 					<h2 class="beutiful__text _58light line">

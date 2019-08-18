@@ -25,7 +25,7 @@
 
 
   <section class="big__impact-sec">
-    <div class="big__impact">
+    <div class="big__impact" style="background-image: url('../img/contact_header_img.jpg'); background-position: center;">
       <div class="col-lg-8 mx-auto text-center" id="animate">
         <p class="text-uppercase _22caps line">work with us</p>
         <h2 class="_58light ">
@@ -38,11 +38,17 @@
           
         </h2>
 
+        <h1 class="line">Have the next big Idea?</h1>
+
         <h1 class="line">
-          Seeking Enterprise Clients &nbsp;| &nbsp;
-          Have the next big idea? get in touch &nbsp;| &nbsp;
+          <!-- Seeking Enterprise Clients &nbsp;| &nbsp;
+          Have the next big idea? get in touch &nbsp;| &nbsp; -->
+
+          Your app wont build itself....get in touch
+          
+          
            
-          <h2 href="" class="typewrite " data-period="2000" data-type='[ "Government agencies looking to deliver value to citizens. ", "&nbsp;| &nbsp; SME looking to upgrade digital assets" ]'>
+          <h2 href="" class="typewrite " data-period="2000" data-type='[ "Need to sell more product? Well make you viral on social media.", "&nbsp;| &nbsp; your office staff needs Internet and IT that just works. Thats us " ]'>
             <h2 class="wrap"></h2>
           </h2>
         </h1>
