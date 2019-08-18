@@ -40,8 +40,14 @@
   <section class="wheather">
     <div class="col-lg-8 mx-auto">
       <p class="text-center pb-3 _36light line">
-        whether you are building a new website, launching a multi-layed digital campaign, designing a new app or
-        simply need help simplyfying your business solutions, we are here to help.
+        <!-- whether you are building a new website, launching a multi-layed digital campaign, designing a new app or
+        simply need help simplyfying your business solutions, we are here to help. -->
+        We create captivating designs to engage your audience.
+      </p>
+      <p class="text-center pb-3 _36light line">
+        Reliable technical expertise
+        + We build engaging sites without breaking the bank 
+        + Your trusted partner for your success
       </p>
     </div>
     <div class="col-lg-8 mx-auto">
@@ -172,7 +178,7 @@
   <section class="brands text-center">
     <!-- <h2 class="text-center text-uppercase mt-5 mb-5 headers"> brands who trust us</h2> -->
     <div class="">
-      <h3 class="text-uppercase client__text mt-5">brands who trust us</h3>
+      <h3 class="text-uppercase client__text mt-5">Our clients</h3>
        <div class="col-lg-10 mx-auto">
         <div class="row">
           <div class="col-lg-3">
@@ -212,11 +218,17 @@
       <div class="border__padding">
         <h2 class="text-uppercase headers">work with us</h2>
       <p class="pt-2 talent">Seeking passionate clients who want to make an impact with their brand</p>
-      <a href="" class="contact__us btn text-uppercase">Contact us!</a>
+      <a href="contact.php" class="contact__us btn text-uppercase">Contact us!</a>
       </div>
     </div>
   </section>
 
+
+  <section class="talk__expert">
+    <h3 class=" text-center  text-uppercase have-a-project">
+      have a project? talk to an expert
+    </h3>
+  </section>
 
 
   <!-- Footer -->
