@@ -36,7 +36,7 @@
 
 
     <section class="big__impact-sec">
-    <div class="big__impact">
+    <div class="big__impact back_big__impact">
       <div class="col-lg-8 mx-auto text-center">
         <p class="text-uppercase _22caps line">Strategic minds + Creative hearts + Technical muscle</p>
         <h1 class="beutiful__text lightlarge line">

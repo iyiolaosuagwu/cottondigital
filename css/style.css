@@ -13,10 +13,13 @@
 .big__impact {
   padding: 100px 0px;
   color: #fff;
-  /* background: #468cfc; */
+  
   background-size: cover;
 }
 
+.back_big__impact{
+  background: #468cfc;
+}
 .my-item a {
   font-size: 18px;
 }
