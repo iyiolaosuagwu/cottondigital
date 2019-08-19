@@ -13,7 +13,7 @@
 .big__impact {
   padding: 100px 0px;
   color: #fff;
-  background: #468cfc;
+  /* background: #468cfc; */
   background-size: cover;
 }
 
@@ -227,10 +227,11 @@
 
 .big__impact--backImg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url('../img/back.png');
+    url('../img/service_header.jpg');
   background-size: cover;
   background-position: center;
-  padding: 100px 0px;
+  padding: 150px 0px;
+  background-position: top;
 }
 
 .wheather {

@@ -21,7 +21,7 @@
   <?php include 'navbar.php'; ?>
 
   <section class="">
-    <div class="design__in--mind">
+    <div class="design__in--mind" style="background-image: url('../img/home_header.jpg'); background-position: center;">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="text-white index__header">
           <!-- We are a creative agency that specializes in branding and digital marketing. -->
