@@ -21,7 +21,7 @@
   <?php include 'navbar.php'; ?>
 
   <section class="big__impact-sec">
-    <div class="big__impact">
+    <div class="big__impact" style="background: #468cfc;">
       <div class="col-lg-8 mx-auto text-center">
         <p class="text-uppercase _22caps line">We have the best design for you</p>
         <h2 class="lightlarge line">

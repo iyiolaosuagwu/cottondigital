@@ -17,9 +17,6 @@
   background-size: cover;
 }
 
-
-
-
 .my-item a {
   font-size: 18px;
 }
@@ -226,7 +223,7 @@
 /* services */
 
 .big__impact--backImg {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background-image: linear-gradient(rgba(92, 151, 243, 0.51), rgba(92, 151, 243, 0.51)),
     url('../img/service_header.jpg');
   background-size: cover;
   background-position: center;
@@ -292,12 +289,9 @@
   color: #fff;
 }
 
-
-
 .typewrite {
   font-size: 40px !important;
 }
-
 
 /* about */
 
@@ -509,32 +503,32 @@
   font-family: 'Open Sans', sans-serif;
   color: white;
   font-size: 50px;
-  line-height: 1.600;
+  line-height: 1.6;
   font-weight: 300;
   text-align: center;
 }
 
-.some__work{
-      padding: 100px 0px;
-    }
-    .view__case--study{
-      border-radius: 50px;
-      background: #468cfc;
-      margin-top: 50px;
-    }
-    .view__case--study:hover{
-      border-radius: 50px;
-      background: #468cfc;
-      color: #fff;
-    }
+.some__work {
+  padding: 100px 0px;
+}
+.view__case--study {
+  border-radius: 50px;
+  background: #468cfc;
+  margin-top: 50px;
+}
+.view__case--study:hover {
+  border-radius: 50px;
+  background: #468cfc;
+  color: #fff;
+}
 
 .herotext {
-    font-family: 'Open Sans', sans-serif;
-    color: #fbfafa;
-    font-size: 83px;
-    line-height: 0.795;
-    font-weight: 600;
-    text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #fbfafa;
+  font-size: 83px;
+  line-height: 0.795;
+  font-weight: 600;
+  text-align: center;
 }
 
 /* responsive */
