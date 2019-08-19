@@ -99,7 +99,7 @@
   font-family: 'Open Sans', sans-serif;
   color: #fbfafa;
   font-size: 50px;
-  line-height: 1.2;
+  line-height: 1.6;
   font-weight: 600;
   text-align: center;
   margin: 0;
@@ -177,7 +177,7 @@
 
 .talk__expert {
   background: #3b80f6;
-  padding: 20px;
+  padding: 40px;
   color: #fff;
 }
 
@@ -508,9 +508,32 @@
   font-family: 'Open Sans', sans-serif;
   color: white;
   font-size: 50px;
-  line-height: 1.241;
+  line-height: 1.600;
   font-weight: 300;
   text-align: center;
+}
+
+.some__work{
+      padding: 100px 0px;
+    }
+    .view__case--study{
+      border-radius: 50px;
+      background: #468cfc;
+      margin-top: 50px;
+    }
+    .view__case--study:hover{
+      border-radius: 50px;
+      background: #468cfc;
+      color: #fff;
+    }
+
+.herotext {
+    font-family: 'Open Sans', sans-serif;
+    color: #fbfafa;
+    font-size: 83px;
+    line-height: 0.795;
+    font-weight: 600;
+    text-align: center;
 }
 
 /* responsive */
