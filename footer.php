@@ -18,25 +18,30 @@
 
             <div class="flex d-flex" style="margin-top: 13px;">
               <div class="social__icon">
-                  <i class="fa fa-twitter iconns "></i>
+                <a href="https://twitter.com/Cotton_Digital" class="a_icon">
+                  <i class="fa fa-twitter iconns"></i>
+                </a>
                 </div>
                 <div class="social__icon">
-                  <i class="fa fa-facebook iconns "></i>
+                  <a href="https://web.facebook.com/cottondigital" class="a_icon">
+                    <i class="fa fa-facebook iconns" ></i>
+                  </a>
                 </div>
                 
             </div>
 
             <div class="flex d-flex">
+              <!-- <div class="social__icon">
+                <i class="fa fa-linkedin iconns" href=""></i>
+              </div> -->
               <div class="social__icon">
-                <i class="fa fa-linkedin iconns "></i>
+                <a class="a_icon" href="https://www.instagram.com/cottondigital/">
+                  <i class="fa fa-instagram iconns"></i>
+                </a>
+                
               </div>
-              <div class="social__icon">
-                <i class="fa fa-instagram iconns "></i>
-              </div>
-              
             </div>
 
-       
           </div>
           <!-- Grid column -->
         </div>

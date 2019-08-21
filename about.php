@@ -23,7 +23,36 @@
 
 	<body>
 		<!-- Start your project here-->
-		<?php include 'navbar.php'; ?>
+		
+		<nav class="navbar navbar-expand-lg navbar-dark">
+			<div class="col-lg-7 mx-auto">
+				
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+				aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+				</button>
+				
+				<div class="collapse navbar-collapse" id="navbarNav">
+				<a class="navbar-brand" href="index.php">
+				<img src="./img/logo/cotton-digital-logo.png" class="logo" alt="" width="30%" />
+				</a>
+				<ul class="navbar-nav ml-auto mt-lg-0">
+					<li class="nav-item">
+						<a class="nav-link" href="works.php">Works <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="services.php">Services</a>
+					</li>
+					<li class="nav-item active">
+						<a class="nav-link " href="about.php" style="color: #4285f4 !important;">About</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="contact.php">Contact</a>
+					</li>
+				</ul>
+				</div>
+			</div>
+		</nav>
 
 		<section class="big__impact-sec">
 			<div class="big__impact" style="background-image: url('../img/about_header_img.jpg');">

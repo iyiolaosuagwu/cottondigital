@@ -84,8 +84,8 @@
     <div class="carousel-item active">
       <!--Mask color-->
       <div class="view">
-        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide">
-        <div class="mask rgba-black-strong"></div>
+        <div class="d-block second_slide w-100"></div>
+        <div class="mask rgba-black-light"></div>
       </div>
       <div class="carousel-caption cap__caption">
         <div  class="cap__caption">
@@ -97,8 +97,8 @@
     <div class="carousel-item">
       <!--Mask color-->
       <div class="view">
-        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide">
-        <div class="mask rgba-black-strong"></div>
+        <div class="d-block w-100 first_slide"></div>
+        <div class="mask rgba-black-light"></div>
       </div>
       <div class="carousel-caption cap__caption">
         <div  class="cap__caption">
@@ -111,8 +111,8 @@
       <!--Mask color-->
       <!--Mask color-->
       <div class="view">
-        <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg" alt="Second slide">
-        <div class="mask rgba-black-strong"></div>
+        <div class="d-block w-100 third_slide"></div>
+        <div class="mask rgba-black-light"></div>
       </div>
       <div class="carousel-caption cap__caption">
         <div  class="cap__caption">
