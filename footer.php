@@ -4,16 +4,18 @@
         <!-- Grid row-->
         <div class="row py-3 d-flex ">
           <!-- Grid column -->
-          <div class="col-8 text-left mb-4 ul-li mb-md-0 mt-3">
+          <div class="col-3 mr-auto  mb-4 ul-li mb-md-0 mt-2">
             <h2 class="mb-0 headers">CONTACT</h2>
             <p>
-              <li class="">408.249.9026</li>
-              <li class="">info@designnim.com</li>
-              <li class="">Carrier Pigeon</li>
+              <li class="">08093895270</li>
+              <li class="">info@cottndigital.io</li>
+              <!-- <li class="">Carrier Pigeon</li> -->
             </p>
           </div>
 
-          <div class="col-4 mb-4 mb-md-0 float-right mt-3">
+          <div class="col-6"></div>
+
+          <div class="col-3 mb-4 mb-md-0  mt-2">
             <h2 class="mb-0 headers">FOLLOW US</h2>
 
             <div class="flex d-flex" style="margin-top: 13px;">

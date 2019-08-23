@@ -56,7 +56,7 @@
         <h2 class="lightlarge line">
          Big or small project... We deliver
         </h2>
-        <a href="" class="btn learn__more mt-3"> Learn more</a>
+        <a href="about.php" class="btn learn__more mt-3"> Learn more</a>
       </div>
     </div>
     <div class="big__impact--backImg">

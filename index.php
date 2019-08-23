@@ -42,7 +42,7 @@
         <h1 class="beutiful__text lightlarge line">
         We create captivating designs to engage your audience.
         </h1>
-        <a href="" class="btn learn__more mt-3"> Learn more</a>
+        <a href="about.php" class="btn learn__more mt-3"> Learn more</a>
       </div>
     </div>
   </section>
@@ -246,7 +246,7 @@
 
 
     <section class="talk__expert">
-      <h3 class=" text-center  text-uppercase have-a-project">
+      <h3 class=" text-center  text-capitalize have-a-project">
         have a project? talk to an expert
       </h3>
     </section>

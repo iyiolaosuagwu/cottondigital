@@ -13,7 +13,9 @@
 /* .view img{
   max-height: 800px;
 } */
-
+.contact-gray{
+  background-color: gray;
+}
 .first_slide{
   background-image: url('../img/image_2.jpg');
   background-size: cover;
@@ -513,22 +515,35 @@ footer.page-footer a {
   color: #468cfc;
   background-color: unset;
   font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .navbar.navbar-dark .breadcrumb .nav-item.active > .nav-link,
 .navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link {
   color: #4285f4 !important;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
 }
 
 .navbar.navbar-dark .breadcrumb .nav-item.focus > .nav-link,
 .navbar.navbar-dark .navbar-nav .nav-item.focus > .nav-link {
   color: #4285f4 !important;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
 }
 
-.nav-link {
+.nav-item a{
   color: #000 !important;
+} 
+.nav-link {
+  color: #000;
   text-transform: uppercase;
   font-size: 17px;
+  font-weight: 400;
 }
 
 .col__pad {
