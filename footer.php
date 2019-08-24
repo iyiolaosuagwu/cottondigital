@@ -7,8 +7,8 @@
           <div class="col-3 mr-auto  mb-4 ul-li mb-md-0 mt-2">
             <h2 class="mb-0 headers">CONTACT</h2>
             <p>
-              <li class="">08093895270</li>
-              <li class="">info@cottndigital.io</li>
+              <li class="digit">08093895270</li>
+              <li class="digit">info@cottndigital.io</li>
               <!-- <li class="">Carrier Pigeon</li> -->
             </p>
           </div>
@@ -16,9 +16,9 @@
           <div class="col-6"></div>
 
           <div class="col-3 mb-4 mb-md-0  mt-2">
-            <h2 class="mb-0 headers">FOLLOW US</h2>
+            <h2 class="mb-0 headers text-center">FOLLOW US</h2>
 
-            <div class="flex d-flex" style="margin-top: 13px;">
+            <div class="flex d-flex margin-l" style="margin-top: 13px;">
               <div class="social__icon">
                 <a href="https://twitter.com/Cotton_Digital" class="a_icon">
                   <i class="fa fa-twitter iconns"></i>
@@ -32,10 +32,10 @@
                 
             </div>
 
-            <div class="flex d-flex">
-              <!-- <div class="social__icon">
+            <div class="flex d-flex margin-l">
+              <div class="social__icon">
                 <i class="fa fa-linkedin iconns" href=""></i>
-              </div> -->
+              </div>
               <div class="social__icon">
                 <a class="a_icon" href="https://www.instagram.com/cottondigital/">
                   <i class="fa fa-instagram iconns"></i>

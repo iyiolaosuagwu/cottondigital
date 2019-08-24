@@ -21,7 +21,7 @@
 <body>
   <!-- Start your project here-->
   <nav class="navbar navbar-expand-lg navbar-dark">
-    <div class="col-lg-7 mx-auto">
+    <div class="col-lg-8 mx-auto">
       
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,11 +30,11 @@
       
       <div class="collapse navbar-collapse" id="navbarNav">
       <a class="navbar-brand" href="index.php">
-      <img src="./img/logo/cotton-digital-logo.png" class="logo" alt="" width="30%" />
+      <img src="./img/logo/cotton-digital-logo.png" class="logo" alt="" width="25%" />
       </a>
         <ul class="navbar-nav ml-auto mt-lg-0">
           <li class="nav-item">
-            <a class="nav-link" href="works.php">Works <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="works.php">Work <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="services.php">Services</a>
@@ -68,13 +68,13 @@
         <!-- <h1 class="line">Have the next big Idea?</h1> -->
 
         <h1 class="line">
-          Seeking Enterprise Clients &nbsp;| &nbsp;
-          Have the next big idea? get in touch &nbsp;| &nbsp;
+          <!-- Seeking Enterprise Clients &nbsp;| &nbsp; -->
+          Have the next big idea?  
 
           <!-- Your app wont build itself....get in touch -->
           
            
-          <h2 href="" class="typewrite " data-period="2000" data-type='[ "Government agencies looking to deliver value to citizens.", "&nbsp;| &nbsp; • SME looking to upgrade digital assets" ]'>
+          <h2 href="" class="typewrite " data-period="2000" data-type='["get in touch", "Government agencies looking to deliver value to citizens.", " SME looking to upgrade digital assets" ]'>
             <h2 class="wrap"></h2>
           </h2>
         </h1>
@@ -112,7 +112,7 @@
       </div> -->
 
 
-        <div class="bt-form__wrapper col-lg-7 mx-auto">
+        <div class="bt-form__wrapper col-lg-8 mx-auto">
     <form class="uk-form bt-flabels js-flabels" data-parsley-validate data-parsley-errors-messages-disabled>
       <div class="uk-grid uk-grid-collapse">
         <div class="uk-width-1-2">
@@ -122,23 +122,22 @@
             <span class="bt-flabels__error-desc">Name Required</span>
           </div>
         </div>
-        <div class="uk-width-1-2">
+        <!-- <div class="uk-width-1-2">
           <div class="bt-flabels__wrapper bt-flabels--right">
-            <!-- <label>Company</label> -->
             <input type="text" class="form-control input my-4" name="last_name" autocomplete="off" placeholder="Company" data-parsley-required />
             <span class="bt-flabels__error-desc">Company Required</span>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="bt-flabels__wrapper">
         <!-- <label>Email</label> -->
         <input type="text" class="form-control input my-4" name="email" placeholder="name@website.com" data-parsley-required data-parsley-type="email" autocomplete="off" />
-        <span class="bt-flabels__error-desc">Email Required / Invalid Email</span>
+        <span class="bt-flabels__error-desc">Email Required</span>
       </div>
       <div class="bt-flabels__wrapper">
         <!-- <label>Phone</label> -->
         <input type="text" class="form-control input my-4" name="phone" data-parsley-required placeholder="Phone" autocomplete="off" />
-        <span class="bt-flabels__error-desc mb-3">Phone Required / Invalid Phone</span>
+        <span class="bt-flabels__error-desc mb-3">Phone Required</span>
       </div>
 
       <div class="uk-width-1-2">
@@ -168,7 +167,7 @@
   </section>
 
   <section class="talk__expert">
-    <h3 class=" text-center  text-capitalize have-a-project">
+    <h3 class=" text-center  text-uppercase have-a-project">
       have a project? talk to an expert
     </h3>
   </section>
@@ -176,12 +175,12 @@
   <style>
     .bt-form__wrapper {
   margin: 30px auto;
-  max-width: 500px;
+  /* max-width: 500px; */
 }
 .bt-flabels input[type] {
   position: relative;
   width: 100%;
-  height: 50px;
+  height: 70px;
   border: none;
   border-radius: 0;
   z-index: 1;

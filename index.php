@@ -246,7 +246,7 @@
 
 
     <section class="talk__expert">
-      <h3 class=" text-center  text-capitalize have-a-project">
+      <h3 class=" text-center  text-uppercase have-a-project">
         have a project? talk to an expert
       </h3>
     </section>

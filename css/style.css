@@ -13,25 +13,25 @@
 /* .view img{
   max-height: 800px;
 } */
-.contact-gray{
-  background-color: gray;
+.contact-gray {
+  background-color: #55565a;
 }
-.first_slide{
+.first_slide {
   background-image: url('../img/image_2.jpg');
   background-size: cover;
-  height: 700px
+  height: 700px;
 }
 
-.second_slide{
+.second_slide {
   background-image: url('../img/image_1.jpg');
   background-size: cover;
-  height: 700px
+  height: 700px;
 }
 
-.third_slide{
+.third_slide {
   background-image: url('../img/image_3.jpg');
   background-size: cover;
-  height: 700px
+  height: 700px;
 }
 
 .big__impact {
@@ -40,7 +40,7 @@
 
   background-size: cover;
 }
-a_icon{
+a_icon {
   color: unset !important;
 }
 
@@ -60,7 +60,7 @@ a_icon{
 }
 
 footer.page-footer a {
-    color: unset;
+  color: unset;
 }
 
 .talent {
@@ -121,9 +121,14 @@ footer.page-footer a {
   border-radius: 50px;
 }
 
+.digit{
+  letter-spacing: 1px; 
+}
+
 .headers {
   font-size: 18px;
   font-weight: 400;
+  letter-spacing: 2px;
 }
 
 .index__header {
@@ -145,7 +150,7 @@ footer.page-footer a {
 .social__icons {
   background: #fff;
   border-radius: 50px;
-  padding: 15px 15px;
+  padding: 18px 18px;
   font-size: 16px;
   color: blue;
   cursor: pointer;
@@ -186,9 +191,11 @@ footer.page-footer a {
 
 .submit-btn {
   background: #468cfc;
-  padding: 10px 50px;
+  padding: 10px 30px;
   float: left;
   border-radius: 50px;
+  font-size: 20px;
+  letter-spacing: 1px;
 }
 
 .form-control {
@@ -327,6 +334,12 @@ footer.page-footer a {
   color: #fff;
 }
 
+.wrap {
+  line-height: 1.9 !important;
+  font-size: 48px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .typewrite {
   font-size: 40px !important;
 }
@@ -367,12 +380,17 @@ footer.page-footer a {
   margin: 5px 5px;
 }
 
+.margin-l {
+  margin-left: 33px;
+}
+
 .iconns {
   position: relative;
-  top: 40%;
+  top: 47%;
   left: 50%;
   transform: translate(-50%, -50%);
   cursor: pointer;
+  font-size: 18px;
 }
 
 .map__text {
@@ -391,6 +409,8 @@ footer.page-footer a {
 
 .line {
   letter-spacing: 2px;
+  font-size: 48px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .our__team {
@@ -425,6 +445,7 @@ footer.page-footer a {
 
 ._34sb {
   font-size: 24px;
+  font-weight: 600;
 }
 
 ._22caps {
@@ -450,7 +471,7 @@ footer.page-footer a {
 ._369light {
   margin-top: 9px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
+  font-size: 32px;
   line-height: 1.8;
   font-weight: 300;
   text-align: center;
@@ -516,7 +537,7 @@ footer.page-footer a {
   background-color: unset;
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 400;
 }
 
@@ -524,7 +545,7 @@ footer.page-footer a {
 .navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link {
   color: #4285f4 !important;
   font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 400;
 }
 
@@ -532,17 +553,17 @@ footer.page-footer a {
 .navbar.navbar-dark .navbar-nav .nav-item.focus > .nav-link {
   color: #4285f4 !important;
   font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 400;
 }
 
-.nav-item a{
+.nav-item a {
   color: #000 !important;
-} 
+}
 .nav-link {
   color: #000;
-  text-transform: uppercase;
-  font-size: 17px;
+  /* text-transform: uppercase; */
+  font-size: 19px;
   font-weight: 400;
 }
 
@@ -555,7 +576,7 @@ footer.page-footer a {
 }
 
 .have-a-project {
-  font-size: 20px;
+  font-size: 29px;
   letter-spacing: 3px;
 }
 .cap__caption {
@@ -574,6 +595,8 @@ footer.page-footer a {
   line-height: 1.6;
   font-weight: 300;
   text-align: center;
+  font-size: 58px;
+  font-weight: 300;
 }
 
 .some__work {
@@ -619,7 +642,7 @@ footer.page-footer a {
   margin-top: 25px;
   font-size: 21px;
   text-align: center;
-
+  font-weight: 600;
   -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
   -moz-animation: fadein 2s; /* Firefox < 16 */
   -ms-animation: fadein 2s; /* Internet Explorer */
