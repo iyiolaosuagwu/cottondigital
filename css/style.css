@@ -211,6 +211,16 @@ footer.page-footer a {
   border-radius: 5px;
 }
 
+.works-bold {
+  font-weight: 600 !important;
+  font-size: 60px !important;
+  line-height: 70px !important;
+}
+
+.our-work {
+  color: #898989;
+  font-weight: 400;
+}
 .result {
   font-size: 20px;
   font-weight: 300;
@@ -412,11 +422,11 @@ footer.page-footer a {
   padding: 11px 50px;
 }
 
-.learn__more:hover{
+.learn__more:hover {
   color: #468cfc;
 }
 
-.learn__more__two:hover{
+.learn__more__two:hover {
   color: #fff;
 }
 
@@ -430,7 +440,7 @@ footer.page-footer a {
   padding: 11px 50px;
 }
 
-.learn__more__two-p{
+.learn__more__two-p {
   margin-top: 50px;
 }
 
@@ -498,6 +508,7 @@ footer.page-footer a {
 .beutiful__text {
   font-weight: 600;
   width: 100%;
+  line-height: 80px !important;
 }
 
 ._20sbg {
@@ -518,7 +529,7 @@ footer.page-footer a {
   color: white;
   font-size: 22px;
   line-height: 0.864;
-  font-weight: 400;
+  font-weight: 600;
   text-align: center;
   text-transform: uppercase;
 }
@@ -572,6 +583,7 @@ footer.page-footer a {
   border-radius: 10px;
   background-image: url('https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg');
   background-size: cover;
+  cursor: pointer;
 }
 
 .card__text {
@@ -603,7 +615,7 @@ footer.page-footer a {
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 ._98light {
@@ -621,7 +633,7 @@ footer.page-footer a {
   color: #4285f4 !important;
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .navbar.navbar-dark .breadcrumb .nav-item.focus > .nav-link,
@@ -629,10 +641,13 @@ footer.page-footer a {
   color: #4285f4 !important;
   font-family: 'Open Sans', sans-serif;
   font-size: 19px;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .nav-item a {
+  color: #000;
+}
+.text-dark {
   color: #000 !important;
 }
 .nav-link {
@@ -687,7 +702,7 @@ footer.page-footer a {
   text-transform: unset;
 }
 
-.view__case--study:hover{
+.view__case--study:hover {
   color: #fff;
 }
 
@@ -775,4 +790,25 @@ footer.page-footer a {
   to {
     opacity: 1;
   }
+}
+
+.carousel .carousel-indicators li {
+  width: 1.1rem;
+  height: 1.1rem;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.carousel-indicators li {
+  position: relative;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 8px;
+  margin-left: 8px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.5);
 }

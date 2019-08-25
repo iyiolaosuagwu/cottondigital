@@ -151,8 +151,8 @@
               <div class="card__text--div">
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
+                    <h5 class="white-text card__text--one">77 infra</h5>
+                    <!-- <p class="white-text card__text--two">Strong overlay</p> -->
                 </div>
               </div>
             </div>
@@ -163,8 +163,8 @@
               <div class="card__text--div">
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
+                    <h5 class="white-text card__text--one">Helios</h5>
+                    <!-- <p class="white-text card__text--two">Strong overlay</p> -->
                 </div>
               </div>
             </div>
@@ -175,8 +175,8 @@
               <div class="card__text--div">
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
+                    <h5 class="white-text card__text--one">Babajide koku</h5>
+                    <!-- <p class="white-text card__text--two">Strong overlay</p> -->
                 </div>
               </div>
             </div>
@@ -187,60 +187,13 @@
               <div class="card__text--div">
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
+                    <h5 class="white-text card__text--one">Delano Archirects</h5>
+                    <!-- <p class="white-text card__text--two">Strong overlay</p> -->
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col__pad">
-            <div class="card card__height view overlay">
-              <div class="card__text--div">
-                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col__pad">
-            <div class="card card__height view overlay">
-              <div class="card__text--div">
-                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col__pad">
-            <div class="card card__height view overlay">
-              <div class="card__text--div">
-                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col__pad">
-            <div class="card card__height view overlay">
-              <div class="card__text--div">
-                <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                <div class="mask rgba-blue-strong card__text">
-                    <h5 class="white-text card__text--one">Cotton Digital</h5>
-                    <p class="white-text card__text--two">Strong overlay</p>
-                </div>
-              </div>
-            </div>
-          </div>
           </div>
         </div>
 
