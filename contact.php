@@ -62,6 +62,7 @@
           <!-- <span class="element">
           
           </span> -->
+          Have the next big idea?
           
         </h2>
 
@@ -69,7 +70,7 @@
 
         <h1 class="line">
           <!-- Seeking Enterprise Clients &nbsp;| &nbsp; -->
-          Have the next big idea?  
+            
 
           <!-- Your app wont build itself....get in touch -->
           
