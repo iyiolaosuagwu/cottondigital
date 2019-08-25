@@ -40,7 +40,7 @@
       <div class="col-lg-8 mx-auto text-center">
         <p class="text-uppercase _22caps line">Strategic minds + Creative hearts + Technical muscle</p>
         <h1 class="beutiful__text lightlarge line">
-        We create captivating designs to engage your audience.
+        We create captivating <br /> designs to engage your <br /> audience.
         </h1>
         <a href="about.php" class="btn learn__more mt-3"> Learn more</a>
       </div>
@@ -66,6 +66,10 @@
           </div>
         </div>
       </div>
+      <div class="learn__more__two-p">
+        <a href="about.php" class="btn learn__more__two mt-3"> Learn more</a>
+      </div>
+        
     </div>
   </section>
 

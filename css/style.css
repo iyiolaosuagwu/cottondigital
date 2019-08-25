@@ -130,13 +130,13 @@ footer.page-footer a {
   border-radius: 50px;
   padding: 12px 50px;
   font-weight: 400;
+  font: 24px !important;
 }
 
 .apply__btn:hover {
   background: #468cfc;
   color: #fff;
   border-radius: 50px;
-  font-size: 20px;
 }
 
 .digit {
@@ -169,8 +169,8 @@ footer.page-footer a {
 .index__header {
   font-family: 'Open Sans', sans-serif;
   color: #fbfafa;
-  font-size: 50px;
-  line-height: 1.6;
+  font-size: 60px;
+  line-height: 1.4;
   font-weight: 600;
   text-align: center;
   margin: 0;
@@ -406,6 +406,32 @@ footer.page-footer a {
   border-radius: 50px;
   background: #fff;
   color: #468cfc;
+  text-transform: unset;
+  font-size: 23px;
+  font-weight: 600;
+  padding: 11px 50px;
+}
+
+.learn__more:hover{
+  color: #468cfc;
+}
+
+.learn__more__two:hover{
+  color: #fff;
+}
+
+.learn__more__two {
+  border-radius: 50px;
+  background: #468cfc;
+  color: #fff;
+  text-transform: unset;
+  font-size: 23px;
+  font-weight: 600;
+  padding: 11px 50px;
+}
+
+.learn__more__two-p{
+  margin-top: 50px;
 }
 
 .social__icon {
@@ -453,6 +479,10 @@ footer.page-footer a {
   color: #fff;
   background: #3b80f6;
   border-radius: 50px;
+  padding: 12px 50px;
+  font-size: 23px;
+  text-transform: capitalize;
+  font-weight: 600;
 }
 
 .our__team:hover {
@@ -466,7 +496,7 @@ footer.page-footer a {
 }
 
 .beutiful__text {
-  font-weight: 400;
+  font-weight: 600;
   width: 100%;
 }
 
@@ -539,7 +569,7 @@ footer.page-footer a {
 .card__height {
   height: 250px;
   width: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
   background-image: url('https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg');
   background-size: cover;
 }
@@ -652,10 +682,12 @@ footer.page-footer a {
   border-radius: 50px;
   background: #468cfc;
   margin-top: 50px;
+  padding: 11px 50px;
+  font-size: 23px;
+  text-transform: unset;
 }
-.view__case--study:hover {
-  border-radius: 50px;
-  background: #468cfc;
+
+.view__case--study:hover{
   color: #fff;
 }
 
