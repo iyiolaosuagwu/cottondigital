@@ -55,7 +55,7 @@
 		</nav>
 
 		<section class="big__impact-sec">
-			<div class="big__impact" style="background-image: url('../img/about_header_img.jpg');">
+			<div class="big__impact back_big__impact">
 				<div class="col-lg-8 xl-6 mx-auto text-center" id="animate">
 					<p class="text-uppercase _22caps fadeIn line">small team with big impact</p>
 					<h2 class="beutiful__text _58light line">
@@ -65,10 +65,14 @@
 			</div>
 		</section>
 
+		<div class="about-back-img">
+			
+		</div>
+
 		<section class="">
 			<div class="big__impact-section">
 				<div class="col-lg-8 mx-auto text-center">
-					<p class="_98light line">
+					<p class="_20lightn line">
 						Cotton Digital is a complete digital and design company that creates unique, meaningful brand experiences for today’s connected consumer. Our in-house experts leverage the latest technology to create best in class strategies for brand, design & development, and digital marketing.
 					</p>
 					<p class="_20lightn line">
@@ -78,7 +82,7 @@
 			</div>
 
 			<div class="we__promise text-center col-lg-8 mx-auto">
-				<h3 class="we__promise--header text-uppercase py-5 text-bold headers">We promise</h3>
+				<h3 class="we__promise--header text-capitalize py-5">We promise</h3>
 				<div class="bordar__width"></div>
 
 				<div class="row">
@@ -98,11 +102,13 @@
 
 				<div class="join__the--team">
 					<div class="text-center">
-						<h3 class="text-uppercase text-bold headers">join the team</h3>
-						<p class="pt-3 talent">
-							We're always looking for new talent. Show us what you can do.
-						</p>
-						<a href="" class="btn btn-lg apply__btn">Apply now</a>
+						<h3 class="text-uppercase text-bold join-the-team">join the team</h3>
+						<div class="col-6 mx-auto">
+							<p class="pt-3 talent pb-4">
+								We're always looking for new talent. Show us what you can do.
+							</p>
+						</div>
+						<a href="" class=" btn-lg apply__btn">Apply now</a>
 					</div>
 				</div>
 			</div>

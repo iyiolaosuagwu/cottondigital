@@ -1,4 +1,4 @@
-body{
+body {
   font-family: 'Open Sans', sans-serif;
 }
 .nav-link {
@@ -66,19 +66,30 @@ footer.page-footer a {
   color: unset;
 }
 
+.we__promise--header{
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.join-the-team{
+  font-size: 18px;
+  font-weight: 600;
+}
+
 .talent {
   letter-spacing: 2px;
   font-size: 20px;
   margin-top: 20px;
+  line-height: 33px;
 }
 
 ._20lightn {
   margin-top: 36px;
-  padding-right: 148px;
-  padding-left: 148px;
+  /* padding-right: 148px; */
+  /* padding-left: 148px; */
   font-family: 'Open Sans', sans-serif;
   /* color: #55565a; */
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1.8;
   font-weight: 300;
   text-align: center;
@@ -116,6 +127,7 @@ footer.page-footer a {
   background: #468cfc;
   color: #fff;
   border-radius: 50px;
+  padding: 8px 40px;
 }
 
 .apply__btn:hover {
@@ -183,6 +195,7 @@ footer.page-footer a {
   z-index: 200000;
   margin: 0 auto;
   border: 4px solid #ccc;
+  border-radius: 3px;
 }
 
 .blue-box {
@@ -192,6 +205,7 @@ footer.page-footer a {
   margin: 0 auto;
   z-index: 200000;
   border: 4px solid #ccc;
+  border-radius: 3px;
 }
 
 .red-box {
@@ -201,6 +215,7 @@ footer.page-footer a {
   margin: 0 auto;
   z-index: 200000;
   border: 4px solid #ccc;
+  border-radius: 3px;
 }
 
 /* /////////////////// */
@@ -252,31 +267,6 @@ footer.page-footer a {
 
 /* contact */
 
-.map {
-  padding: 250px 0px;
-  background-image: url('../img/Map - Dotted World Map.svg');
-  background-size: cover;
-}
-
-.map__comment {
-  margin-top: -90px;
-  margin-left: -100px;
-}
-
-.quadrat {
-  width: 20px;
-  height: 20px;
-  border-radius: 25px;
-  -webkit-animation: NAME-YOUR-ANIMATION 1s infinite;
-  /* Safari 4+ */
-  -moz-animation: NAME-YOUR-ANIMATION 1s infinite;
-  /* Fx 5+ */
-  -o-animation: NAME-YOUR-ANIMATION 1s infinite;
-  /* Opera 12+ */
-  animation: NAME-YOUR-ANIMATION 1s infinite;
-  /* IE 10+, Fx 29+ */
-}
-
 @-webkit-keyframes NAME-YOUR-ANIMATION {
   0%,
   49% {
@@ -296,6 +286,18 @@ footer.page-footer a {
       rgba(92, 151, 243, 0.51)
     ),
     url('../img/service_header.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0px;
+  background-position: top;
+}
+
+.about-back-img {
+  background-image: linear-gradient(
+      rgba(92, 151, 243, 0.51),
+      rgba(92, 151, 243, 0.51)
+    ),
+    url('../img/about_header_img.jpg');
   background-size: cover;
   background-position: center;
   padding: 150px 0px;
