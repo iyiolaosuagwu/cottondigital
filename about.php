@@ -73,7 +73,7 @@
 			<div class="big__impact-section">
 				<div class="col-lg-8 mx-auto text-center">
 					<p class="_20lightn line">
-						Cotton Digital is a complete digital and design company that creates unique, meaningful brand experiences for today’s connected consumer. Our in-house experts leverage the latest technology to create best in class strategies for brand, design & development, and digital marketing.
+						Cotton Digital is a complete digital and design company that creates unique, <br /> meaningful brand experiences for today’s connected consumer. Our in- <br /> house experts leverage the latest technology to create best in class  <br /> strategies for brand, design & development, and digital marketing.
 					</p>
 					<p class="_20lightn line">
 						Our expert team of talented individuals will work to solve your problems and create a world-class product for you and your users.
@@ -88,23 +88,23 @@
 				<div class="row">
 					<div class="col-lg-4 text-center">
 						<div class="text-center green-box my-3"></div>
-						<p class="">Results</p>
+						<p class="result">Results</p>
 					</div>
 					<div class="col-lg-4">
 						<div class="text-center blue-box my-3"></div>
-						<p class="">Value for money</p>
+						<p class="result">Value for money</p>
 					</div>
 					<div class="col-lg-4">
 						<div class="text-center red-box my-3"></div>
-						<p class="">World-class expertise</p>
+						<p class="result">World-class expertise</p>
 					</div>
 				</div>
 
 				<div class="join__the--team">
 					<div class="text-center">
-						<h3 class="text-uppercase text-bold join-the-team">join the team</h3>
-						<div class="col-6 mx-auto">
-							<p class="pt-3 talent pb-4">
+						<h3 class="text-uppercase text-bold join-the-team mt-3">join the team</h3>
+						<div class="col-7 mx-auto">
+							<p class="pt-3 talent pb-4 pt-3">
 								We're always looking for new talent. Show us what you can do.
 							</p>
 						</div>
