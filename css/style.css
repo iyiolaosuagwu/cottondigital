@@ -1,3 +1,6 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
 .nav-link {
   color: #000;
 }
@@ -135,7 +138,7 @@ footer.page-footer a {
   color: white;
   font-size: 16px;
   line-height: 1;
-  font-weight: 600;
+  font-weight: 300;
   text-decoration: none;
 }
 .mt-icon {
