@@ -9,7 +9,7 @@
             <p>
               <li class="digit">08093895270</li>
               <li class="digit">info@cottndigital.io</li>
-              <li class="digit">9 sabiu ajose street</li>
+              <li class="digit">9 sabiu ajose crecent Off Bode Thomas, Surulere</li>
               <!-- <li class="">Carrier Pigeon</li> -->
             </p>
           </div>
