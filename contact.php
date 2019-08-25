@@ -74,7 +74,7 @@
           <!-- Your app wont build itself....get in touch -->
           
            
-          <h2 href="" class="typewrite " data-period="2000" data-type='["get in touch", "Government agencies looking to deliver value to citizens.", " SME looking to upgrade digital assets" ]'>
+          <h2 href="" class="typewrite " data-period="2000" data-type='["Your app wont build itself....get in touch", "Need to sell more product? Well make you viral your office staff needs Internet and IT that just works ", " Thats us" ]'>
             <h2 class="wrap"></h2>
           </h2>
         </h1>
@@ -89,7 +89,7 @@
     <div class="tell__us--heading col-lg-8 mx-auto">
       <h3 class="text-center _369light">
         Tell us a little more about your project and we will <br>
-        have one of our experts contact you ASAP.
+        Have one of our experts contact you ASAP.
       </h3>
       <p class="py-4 text-center info _34sb">
         info@cottondigital.io &nbsp;| &nbsp; 08093895270
@@ -118,7 +118,7 @@
         <div class="uk-width-1-2">
           <div class="bt-flabels__wrapper">
             <!-- <label>Name</label> -->
-            <input type="text" class="form-control input my-4" name="first_name" placeholder="First Name" autocomplete="off" data-parsley-required />
+            <input type="text" class="form-control input my-4" name="first_name" placeholder="Name" autocomplete="off" data-parsley-required />
             <span class="bt-flabels__error-desc">Name Required</span>
           </div>
         </div>
@@ -143,7 +143,7 @@
       <div class="uk-width-1-2">
         <div class="bt-flabels__wrapper">
           <!-- <label>Message</label> -->
-          <textarea type="text" class="form-control" name="message" placeholder="Tell us a little about Your Project" rows="8" autocomplete="off" data-parsley-required></textarea>
+          <textarea type="text" class="form-control msg" name="message" placeholder="Tell us a little about Your Project" rows="8" autocomplete="off" data-parsley-required></textarea>
           <span class="bt-flabels__error-desc">Message Required</span>
         </div>
       </div>

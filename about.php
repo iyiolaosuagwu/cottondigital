@@ -68,7 +68,7 @@
 		<section class="">
 			<div class="big__impact-section">
 				<div class="col-lg-8 mx-auto text-center">
-					<p class="_36light line">
+					<p class="_98light line">
 						Cotton Digital is a complete digital and design company that creates unique, meaningful brand experiences for today’s connected consumer. Our in-house experts leverage the latest technology to create best in class strategies for brand, design & development, and digital marketing.
 					</p>
 					<p class="_20lightn line">

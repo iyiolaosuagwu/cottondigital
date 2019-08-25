@@ -75,7 +75,7 @@ footer.page-footer a {
   padding-left: 148px;
   font-family: 'Open Sans', sans-serif;
   /* color: #55565a; */
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.8;
   font-weight: 300;
   text-align: center;
@@ -121,8 +121,10 @@ footer.page-footer a {
   border-radius: 50px;
 }
 
-.digit{
-  letter-spacing: 1px; 
+.digit {
+  letter-spacing: 1px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 
 .headers {
@@ -222,6 +224,12 @@ footer.page-footer a {
 
 .input {
   padding: 25px 15px;
+  font-size: 20px;
+}
+
+.msg{
+  font-size: 20px;
+  padding-top: 10px;
 }
 
 /* contact */
@@ -381,7 +389,7 @@ footer.page-footer a {
 }
 
 .margin-l {
-  margin-left: 33px;
+  margin-left: 15px;
 }
 
 .iconns {
@@ -409,7 +417,6 @@ footer.page-footer a {
 
 .line {
   letter-spacing: 2px;
-  font-size: 48px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -445,7 +452,6 @@ footer.page-footer a {
 
 ._34sb {
   font-size: 24px;
-  font-weight: 600;
 }
 
 ._22caps {
@@ -541,6 +547,16 @@ footer.page-footer a {
   font-weight: 400;
 }
 
+._98light {
+  margin-top: -9px;
+  font-family: 'Open Sans', sans-serif;
+  color: #55565a;
+  font-size: 30px;
+  line-height: 1.900;
+  font-weight: 300;
+  text-align: center;
+}
+
 .navbar.navbar-dark .breadcrumb .nav-item.active > .nav-link,
 .navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link {
   color: #4285f4 !important;
@@ -576,7 +592,8 @@ footer.page-footer a {
 }
 
 .have-a-project {
-  font-size: 29px;
+  font-size: 22px;
+  font-weight: 600;
   letter-spacing: 3px;
 }
 .cap__caption {

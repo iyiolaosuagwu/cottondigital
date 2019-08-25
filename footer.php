@@ -1,6 +1,6 @@
 <footer class="page-footer font-small blue-grey lighten-5">
     <div style="background-color: #468cfc;">
-      <div class="col-lg-6 mx-auto">
+      <div class="col-lg-8 mx-auto">
         <!-- Grid row-->
         <div class="row py-3 d-flex ">
           <!-- Grid column -->
@@ -8,15 +8,16 @@
             <h2 class="mb-0 headers">CONTACT</h2>
             <p>
               <li class="digit">08093895270</li>
-              <li class="digit">info@cottndigital.io</li>
+              <li class="digit">info@cottndigital.io,</li>
+              <li class="digit">no 9 sabiu ajose street, bode thomus, surulere.</li>
               <!-- <li class="">Carrier Pigeon</li> -->
             </p>
           </div>
 
-          <div class="col-6"></div>
+          <div class="col-2"></div>
 
-          <div class="col-3 mb-4 mb-md-0  mt-2">
-            <h2 class="mb-0 headers text-center">FOLLOW US</h2>
+          <div class="col-7 mb-4 mb-md-0  mt-2">
+            <h2 class="mb-0 headers">FOLLOW US</h2>
 
             <div class="flex d-flex margin-l" style="margin-top: 13px;">
               <div class="social__icon">
