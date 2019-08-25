@@ -122,12 +122,23 @@ footer.page-footer a {
 }
 
 .digit {
-  letter-spacing: 1px;
+  /* letter-spacing: 1px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
-  line-height: 24px;
+  line-height: 24px; */
+  display: block;
+  margin-top: 11px;
+  margin-right: 137px;
+  margin-bottom: 15px;
+  padding: 5px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 600;
+  text-decoration: none;
 }
-.mt-icon{
+.mt-icon {
   padding-top: 16px;
 }
 
@@ -231,7 +242,7 @@ footer.page-footer a {
   font-size: 20px;
 }
 
-.msg{
+.msg {
   font-size: 20px;
   padding-top: 10px;
 }
@@ -556,7 +567,7 @@ footer.page-footer a {
   font-family: 'Open Sans', sans-serif;
   color: #55565a;
   font-size: 30px;
-  line-height: 1.900;
+  line-height: 1.9;
   font-weight: 300;
   text-align: center;
 }

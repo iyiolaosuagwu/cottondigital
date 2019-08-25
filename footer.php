@@ -9,7 +9,9 @@
             <p>
               <li class="digit">08093895270</li>
               <li class="digit">info@cottndigital.io</li>
-              <li class="digit">9 sabiu ajose crecent Off Bode Thomas, Surulere</li>
+              <li class="digit">9 sabiu ajose crecent</li>
+              <li class="digit">Off Bode Thomas</li>
+              <li class="digit">Surulere</li>
               <!-- <li class="">Carrier Pigeon</li> -->
             </p>
           </div>
@@ -33,7 +35,7 @@
                 
             </div>
 
-            <div class="flex d-flex margin-l mt-icon">
+            <div class="flex d-flex margin-l mt-1">
               <div class="social__icon">
                 <i class="fa fa-linkedin iconns" href=""></i>
               </div>
