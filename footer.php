@@ -33,7 +33,7 @@
                 
             </div>
 
-            <div class="flex d-flex margin-l">
+            <div class="flex d-flex margin-l mt-icon">
               <div class="social__icon">
                 <i class="fa fa-linkedin iconns" href=""></i>
               </div>
