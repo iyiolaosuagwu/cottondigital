@@ -125,11 +125,12 @@ footer.page-footer a {
   letter-spacing: 1px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
+  line-height: 25px;
 }
 
 .headers {
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 600;
   letter-spacing: 2px;
 }
 
@@ -381,8 +382,8 @@ footer.page-footer a {
 
 .social__icon {
   border-radius: 50px;
-  height: 30px;
-  width: 30px;
+  height: 35px;
+  width: 35px;
   background: #fff;
   color: #468cfc;
   margin: 5px 5px;
@@ -398,7 +399,7 @@ footer.page-footer a {
   left: 50%;
   transform: translate(-50%, -50%);
   cursor: pointer;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .map__text {
