@@ -56,7 +56,7 @@
 
 		<section class="big__impact-sec">
 			<div class="big__impact back_big__impact">
-				<div class="col-lg-9 xl-6 mx-auto text-center" id="animate">
+				<div class="col-lg-9 xl-6 mx-auto text-center" id="">
 					<p class="text-uppercase _22caps line">a small team with big impact</p>
 					<h2 class="beutiful__text _58light line">
 						We are a trusted tight-knit team of creatives, developers and technical experts dedicated to building better apps, sites and tools within your budget.

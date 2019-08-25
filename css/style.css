@@ -192,22 +192,22 @@ footer.page-footer a {
 }
 
 .green-box {
-  background: green;
+  background: #7ed320;
   width: 25px;
   height: 25px;
   z-index: 200000;
   margin: 0 auto;
-  border: 4px solid rgb(224, 224, 224);
+  border: 4px solid #e0e0e0;
   border-radius: 5px;
 }
 
 .blue-box {
-  background: blue;
+  background: #4a90e2;
   width: 25px;
   height: 25px;
   margin: 0 auto;
   z-index: 200000;
-  border: 4px solid rgb(224, 224, 224);
+  border: 4px solid #e0e0e0;
   border-radius: 5px;
 }
 
@@ -218,12 +218,12 @@ footer.page-footer a {
 }
 
 .red-box {
-  background: red;
+  background: #d0021b;
   width: 25px;
   height: 25px;
   margin: 0 auto;
   z-index: 200000;
-  border: 4px solid rgb(224, 224, 224);
+  border: 4px solid #e0e0e0;
   border-radius: 5px;
 }
 
