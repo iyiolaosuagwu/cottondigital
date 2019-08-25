@@ -114,12 +114,12 @@
 
 
         <div class="bt-form__wrapper col-lg-8 mx-auto">
-    <form class="uk-form bt-flabels js-flabels" data-parsley-validate data-parsley-errors-messages-disabled>
+    <form class="uk-form bt-flabels js-flabels" action="mail.php"  method="post" data-parsley-validate data-parsley-errors-messages-disabled>
       <div class="uk-grid uk-grid-collapse">
         <div class="uk-width-1-2">
           <div class="bt-flabels__wrapper">
             <!-- <label>Name</label> -->
-            <input type="text" class="form-control input my-4" name="first_name" placeholder="Name" autocomplete="off" data-parsley-required />
+            <input type="text" class="form-control input my-4" name="name" placeholder="Name" autocomplete="off" data-parsley-required />
             <span class="bt-flabels__error-desc">Name Required</span>
           </div>
         </div>
@@ -144,7 +144,7 @@
       <div class="uk-width-1-2">
         <div class="bt-flabels__wrapper">
           <!-- <label>Message</label> -->
-          <textarea type="text" class="form-control msg" name="message" placeholder="Tell us a little about Your Project" rows="8" autocomplete="off" data-parsley-required></textarea>
+          <textarea type="text" class="form-control msg" name="messagetext" placeholder="Tell us a little about Your Project" rows="8" autocomplete="off" data-parsley-required></textarea>
           <span class="bt-flabels__error-desc">Message Required</span>
         </div>
       </div>
