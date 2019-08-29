@@ -577,6 +577,10 @@ footer.page-footer a {
 
 /* card */
 
+.card {
+  box-shadow: unset;
+}
+
 .card__height {
   height: 250px;
   width: 100%;
@@ -586,20 +590,62 @@ footer.page-footer a {
   cursor: pointer;
 }
 
+.delano {
+  height: 250px;
+  width: 100%;
+  border-radius: 10px;
+  background-image: url('../img/delano.jpeg');
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+.kako {
+  height: 250px;
+  width: 100%;
+  border-radius: 10px;
+  background-image: url('../img/kako.jpeg');
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
 .card__text {
   position: relative;
 }
 
 .card__text--one {
+  /* position: absolute;
+  bottom: 60px;
+  left: 10px; */
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.content-rel {
   position: absolute;
-  bottom: 40px;
+  bottom: 20px;
   left: 10px;
 }
 
+
 .card__text--two {
-  position: absolute;
-  bottom: 5px;
+  /* position: absolute;
+  bottom: 20px; */
   left: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 29px;
+  line-height: 1.207;
+  font-weight: 300;
+}
+
+.card__text {
+  position: relative;
 }
 
 .brand__list {
@@ -811,4 +857,46 @@ footer.page-footer a {
   text-indent: -999px;
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+.summary{
+  padding: 50px 0px;
+  border-top: 1px solid #939393;
+  border-bottom: 1px solid #939393;
+}
+
+.summary-text{
+  text-transform: uppercase;
+  color: #000;
+  padding: 10px 0px;
+  font-size: 25px;
+  font-weight: 400;
+}
+.summary p{
+  color: #a2a2a2;
+  font-size: 18px;
+  line-height: 35px;
+  font-weight: 400;
+}
+
+.project-name {
+  color: #898989;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.project-title{
+  font-size: 38px;
+  font-weight: 600;
+  padding: 15px 0px;
+}
+
+.web-link{
+  color: #398bfb;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px;
 }

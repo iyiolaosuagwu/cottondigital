@@ -1,0 +1,389 @@
+.modal-window {
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.25);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  /* transition: all 0.3s; */
+}
+.modal-window:target {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+.modal-window > div {
+  width: 80%;
+  position: absolute;
+  /* top: 50%; */
+  right: 0;
+  /* -webkit-transform: translate(-50%, -50%); */
+  /* transform: translate(-50%, -50%); */
+  padding: 2em;
+  background: #fff;
+  height: 100vh;
+}
+.modal-window header {
+  font-weight: bold;
+}
+.modal-window h1 {
+  font-size: 150%;
+  margin: 0 0 15px;
+}
+
+.modal-close {
+  color: #000;
+  font-weight: 400;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+}
+.modal-close:hover {
+  color: black;
+}
+
+/* Demo Styles */
+html,
+body {
+  /* height: 100%; */
+}
+
+body {
+  /* font: 600 18px/1.5 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  background-image: linear-gradient(to right, #7f53ac 0, #657ced 100%); */
+  color: black;
+}
+
+a {
+  color: inherit;
+}
+
+/* .container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+
+.modal-window div:not(:last-of-type) {
+  margin-bottom: 15px;
+}
+
+small {
+  color: #aaa;
+}
+
+.btn {
+  background-color: red;
+  padding: 1em 1.5em;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
+
+
+/*  */
+
+
+
+.modal-windowTwo {
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.25);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  /* transition: all 0.3s; */
+}
+.modal-windowTwo:target {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+.modal-windowTwo > div {
+  width: 80%;
+  position: absolute;
+  /* top: 50%; */
+  right: 0;
+  /* -webkit-transform: translate(-50%, -50%); */
+  /* transform: translate(-50%, -50%); */
+  padding: 2em;
+  background: #fff;
+  height: 100vh;
+}
+.modal-windowTwo header {
+  font-weight: bold;
+}
+.modal-windowTwo h1 {
+  font-size: 150%;
+  margin: 0 0 15px;
+}
+
+.modal-close {
+  color: #000;
+  font-weight: 400;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+}
+.modal-close:hover {
+  color: black;
+}
+
+/* Demo Styles */
+html,
+body {
+  /* height: 100%; */
+}
+
+body {
+  /* font: 600 18px/1.5 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  background-image: linear-gradient(to right, #7f53ac 0, #657ced 100%); */
+  color: black;
+}
+
+a {
+  color: inherit;
+}
+
+/* .container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+
+.modal-windowTwo div:not(:last-of-type) {
+  margin-bottom: 15px;
+}
+
+small {
+  color: #aaa;
+}
+
+.btnTwo {
+  background-color: yellow;
+  padding: 1em 1.5em;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
+/*  */
+
+
+
+.modal-windowThree {
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.25);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  /* transition: all 0.3s; */
+}
+.modal-windowThree:target {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+.modal-windowThree > div {
+  width: 80%;
+  position: absolute;
+  /* top: 50%; */
+  right: 0;
+  /* -webkit-transform: translate(-50%, -50%); */
+  /* transform: translate(-50%, -50%); */
+  padding: 2em;
+  background: #fff;
+  height: 100vh;
+}
+.modal-windowThree header {
+  font-weight: bold;
+}
+.modal-windowThree h1 {
+  font-size: 150%;
+  margin: 0 0 15px;
+}
+
+.modal-close {
+  color: #000;
+  font-weight: 400;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+}
+.modal-close:hover {
+  color: black;
+}
+
+/* Demo Styles */
+html,
+body {
+  /* height: 100%; */
+}
+
+body {
+  /* font: 600 18px/1.5 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  background-image: linear-gradient(to right, #7f53ac 0, #657ced 100%); */
+  color: black;
+}
+
+a {
+  color: inherit;
+}
+
+/* .container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+
+.modal-windowThree div:not(:last-of-type) {
+  margin-bottom: 15px;
+}
+
+small {
+  color: #aaa;
+}
+
+.btnThree {
+  background-color: green;
+  padding: 1em 1.5em;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+/*  */
+
+
+
+.modal-windowFour {
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.25);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  /* transition: all 0.3s; */
+}
+.modal-windowFour:target {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+.modal-windowFour > div {
+  width: 80%;
+  position: absolute;
+  /* top: 50%; */
+  right: 0;
+  /* -webkit-transform: translate(-50%, -50%); */
+  /* transform: translate(-50%, -50%); */
+  padding: 2em;
+  background: #fff;
+  height: 100vh;
+}
+.modal-windowFour header {
+  font-weight: bold;
+}
+.modal-windowFour h1 {
+  font-size: 150%;
+  margin: 0 0 15px;
+}
+
+.modal-close {
+  color: #000;
+  font-weight: 400;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+}
+.modal-close:hover {
+  color: black;
+}
+
+/* Demo Styles */
+html,
+body {
+  /* height: 100%; */
+}
+
+body {
+  /* font: 600 18px/1.5 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  background-image: linear-gradient(to right, #7f53ac 0, #657ced 100%); */
+  color: black;
+}
+
+a {
+  color: inherit;
+}
+
+/* .container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+
+.modal-windowFour div:not(:last-of-type) {
+  margin-bottom: 15px;
+}
+
+small {
+  color: #aaa;
+}
+
+.btnFour {
+  background-color: pink;
+  padding: 1em 1.5em;
+  border-radius: 3px;
+  text-decoration: none;
+}

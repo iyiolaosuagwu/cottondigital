@@ -77,7 +77,7 @@
       <div class="row">
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" src="./img/design.png" class="py-4" width="25%"/>
             <h4 class="text-uppercase text-center headers mt-3 mb-3">design</h4>
             <p class="text-left">whether you need help designing a logo,
               print collatteral or web design, our goal is to communicate your needs to your audience.</p>
@@ -102,7 +102,7 @@
 
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" src="./img/development.png" class="py-4" width="25%" />
             <h4 class="text-uppercase text-center headers mt-3 mb-3">development</h4>
             <p class="text-left">whether you need help designing a logo,
               print collatteral or web design, our goal is to communicate your needs to your audience.</p>
@@ -124,7 +124,7 @@
 
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" src="./img/business.png" class="py-4"  width="25%"/>
             <h4 class="text-uppercase text-center headers mt-3 mb-3">bussiness</h4>
             <p class="text-left">Something about prime real estate firt page of google search, correct details on directory sites so customers can reach you, engage with newsletters.</p>
 
@@ -149,7 +149,7 @@
 
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" src="./img/it.png" class="py-4" width="25%" />
             <h4 class="text-uppercase text-center headers mt-3 mb-3">it managed service</h4>
             <p class="text-left">Value for money equipment, keep data safe, no IT headaches with support connectivity in every corner of your office</p>
 
@@ -171,7 +171,7 @@
 
         <div class="col-lg-6 text-black">
           <div class="text-center pad-service">
-            <img alt="" src="./img/client_logo-4.png" class="py-4" />
+            <img alt="" src="./img/govt.png" class="py-4" width="25%" />
             <h4 class="text-uppercase text-center headers mt-3 mb-3">government</h4>
             <p class="text-left">Govs looking to provide intuitive platforms to engage citizens, make payments easy</p>
 

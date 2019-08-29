@@ -14,6 +14,7 @@
   <link href="css/mdb.css" rel="stylesheet" />
   <!-- Your custom styles (optional) -->
   <link href="css/style.css" rel="stylesheet" />
+  
 
     <link href="css/parsley.css" rel="stylesheet">
 </head>
@@ -160,11 +161,7 @@
   </section>
 
   <section class="">
-
-
-    
-
-    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.244646904885!2d3.3560463147705306!3d6.4906751953047666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8c0d3b19457f%3A0x9fdd5d8022edb9c0!2s9+Sabiu+Ajose+St%2C+Surulere%2C+Lagos!5e0!3m2!1sen!2sng!4v1566131102918!5m2!1sen!2sng" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.6674399944286!2d3.356043935491044!3d6.490677355611047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8c0d3b19457f%3A0x9fdd5d8022edb9c0!2s9%20Sabiu%20Ajose%20St%2C%20Surulere%2C%20Lagos!5e0!3m2!1sen!2sng!4v1567007586876!5m2!1sen!2sng" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
   </section>
 
   <section class="talk__expert">
@@ -251,6 +248,9 @@
 }
 
   </style>
+
+
+
 
 
   <!-- Footer -->
