@@ -9,7 +9,7 @@
   visibility: hidden;
   opacity: 0;
   pointer-events: none;
-  /* transition: all 0.3s; */
+  transition: all 0.3s;
 }
 .modal-window:target {
   visibility: visible;
@@ -90,12 +90,7 @@ small {
   text-decoration: none;
 }
 
-
-
-
 /*  */
-
-
 
 .modal-windowTwo {
   position: fixed;
@@ -108,7 +103,7 @@ small {
   visibility: hidden;
   opacity: 0;
   pointer-events: none;
-  /* transition: all 0.3s; */
+  transition: all 0.3s;
 }
 .modal-windowTwo:target {
   visibility: visible;
@@ -189,10 +184,7 @@ small {
   text-decoration: none;
 }
 
-
 /*  */
-
-
 
 .modal-windowThree {
   position: fixed;
@@ -205,7 +197,7 @@ small {
   visibility: hidden;
   opacity: 0;
   pointer-events: none;
-  /* transition: all 0.3s; */
+  transition: all 0.3s;
 }
 .modal-windowThree:target {
   visibility: visible;
@@ -286,15 +278,7 @@ small {
   text-decoration: none;
 }
 
-
-
-
-
-
-
 /*  */
-
-
 
 .modal-windowFour {
   position: fixed;
@@ -307,7 +291,7 @@ small {
   visibility: hidden;
   opacity: 0;
   pointer-events: none;
-  /* transition: all 0.3s; */
+  transition: all 0.3s;
 }
 .modal-windowFour:target {
   visibility: visible;
@@ -386,4 +370,29 @@ small {
   padding: 1em 1.5em;
   border-radius: 3px;
   text-decoration: none;
+}
+
+#slide {
+  position: absolute;
+  right: -1100px;
+  /* width: 600px;
+    height: 370px; */
+  /* background: blue; */
+  -webkit-animation: slide 0.3s forwards;
+  /* -webkit-animation-delay: 2s; */
+  animation: slide 0.3s forwards;
+  /* animation-delay: 2s; */
+  transition: all 0.3s;
+}
+
+@-webkit-keyframes slide {
+  100% {
+    right: 0;
+  }
+}
+
+@keyframes slide {
+  100% {
+    right: 0;
+  }
 }

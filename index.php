@@ -57,13 +57,13 @@
             <img alt="" width="80%" src="./img/helios.png" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/babaji.png" class="py-4"/>
+            <img alt="" width="80%" src="./img/bkc.jpg" class="py-4"/>
           </div>
           <div class="col-lg-3">
             <img alt="" width="80%" src="./img/delano.png" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/inspired-by-kore.png" class="py-4" />
+            <img alt="" width="80%" src="./img/77in.jpg" class="py-4" />
           </div>
         </div>
       </div>
@@ -148,13 +148,13 @@
         <div class="row">
           
           <div class="col-lg-3 col__pad">
-            <a href="#open-modal">
+            <a id="myBtn">
             <div class="card card__height view overlay">
               <div class="card__text--div">
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
                   <div class="content-rel">
-                    <h5 class="white-text card__text--one">77 infra</h5>
+                    <h5 class="white-text card__text--one">77 Infrastructrure Partnes</h5>
                     <h2 class="white-text card__text--two">Branding</h2>
                 </div>
                     <!-- <p class="white-text card__text--two">Strong overlay</p> -->
@@ -164,6 +164,8 @@
             </a>
           </div>
 
+          
+
           <div class="col-lg-3 col__pad">
             <a class="" href="#open-modalTwo">
             <div class="card card__height view overlay">
@@ -171,7 +173,7 @@
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
                   <div class="content-rel">
-                      <h5 class="white-text card__text--one">Helios</h5>
+                      <h5 class="white-text card__text--one">Helios Investment Partners</h5>
                     <h2 class="white-text card__text--two">IT support</h2>
                   </div>
                     
@@ -189,7 +191,7 @@
                 <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
                 <div class="mask rgba-blue-strong card__text">
                   <div class="content-rel">
-                    <h5 class="white-text card__text--one">Babajide koku</h5>
+                    <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
                     <h2 class="white-text card__text--two">Branding and website</h2>
                 </div>
                     <!-- <p class="white-text card__text--two">Strong overlay</p> -->
@@ -361,6 +363,87 @@
       </div>
 
 
+
+      <!-- Trigger/Open The Modal -->
+      <!-- <button id="myBtn">Open Modal</button> -->
+
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content col-9 ml-auto" id="slide">
+          <span class="close modal-close">&times;</span>
+          <div class="text-center mt-5">
+            <h5 class="white-black project-name">77 infra</h5>
+            <h2 class="white-black project-title">Branding</h2>
+         </div>
+         <div class="col-9 mx-auto">
+           <div class="summary text-center">
+            <h3 class="summary-text">Summary</h3>
+            <p class="">
+              77 infra is a group of companies active in the real estate and energy sectors. 77 Infrastructure Partners is an Infrastructure development firm focused on delivering world-class infrastructure at affordable prices.
+
+              They wanted logos that would make a strong impact with bold colors and that the services they rendered would be instantly recognizable.
+
+              Aware of our love of good design, they choose us as their partner to create a brand identity that would set them apart from other businesses in the same industry.
+
+              We held meetings to talk through their vision, align on strategy and came up with logos that they were happy with.
+
+            </p>
+            <h2 class="web-link">https://udemy.com</h2>
+          </div>
+         </div>
+        </div>
+
+      </div>
+
+
+
+      <style>
+
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1; /* Sit on top */
+          /* padding-top: 100px; Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        /* Modal Content */
+        .modal-content {
+          background-color: #fefefe;
+          /* margin: auto; */
+          padding: 20px;
+          /* left: 0; */
+          border: 0;
+          width: 80%;
+          border-radius: 0;
+          height: 100vh;
+        }
+
+        /* The Close Button */
+        .close {
+          color: #aaaaaa;
+          float: right;
+          font-size: 28px;
+          font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+          color: #000;
+          text-decoration: none;
+          cursor: pointer;
+        }
+        </style>
+
   <!-- Footer -->
   <?php include 'footer.php'; ?>
   <!-- Footer -->
@@ -375,6 +458,54 @@
   <script type="text/javascript" src="js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
+
+
+
+  <script>
+    
+    // Get the modal
+    var modal = document.getElementById("myModal");
+
+    // Get the button that opens the modal
+    var btn = document.getElementById("myBtn");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks the button, open the modal 
+    btn.onclick = function() {
+      modal.style.display = "block";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+      modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+</script>
+
+  <script>
+    
+    function myFunction() {
+      location.replace("/works.php")
+
+      let modal = document.querySelector("modal-window");
+
+      setTimeout(function() {
+        modal.style.visibility = 'visible';
+        console.log('yesss')
+      }, 2000);
+      
+    }
+
+    
+  </script>
 
   <script>
     MicroModal.show('modal-id'); // [1]
