@@ -56,7 +56,7 @@
     <div class="our__work">
       <div class="col-lg-10 mx-auto text-center">
         <p class="text-uppercase _20sbg line our-work">our work</p>
-        <h2 class="_58light line works-bold">  
+        <h2 class="_58light-grey">  
           Every project is customized <br /> to meet your goals.
         </h2>
       </div>
@@ -66,166 +66,331 @@
   
 
 
-  <section class="">
-    
-
-    <ul class="nav nav-pills mb-3 col-lg-5 mx-auto" id="pills-tab" role="tablist">
-      <li class="nav-item brand__list">
-        <a class="nav-link active text-center" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">
-          
-          Branding
-        </a>
-      </li>
-      <li class="nav-item brand__list">
-        <a class="nav-link text-center" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">
-        
-        Applications</a>
-      </li>
-      <li class="nav-item brand__list">
-        <a class="nav-link text-center" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false">Design</a>
-      </li>
-      <li class="nav-item brand__list">
-        <a class="nav-link text-center" id="pills-web-tab" data-toggle="pill" href="#pills-web" role="tab" aria-controls="pills-web" aria-selected="false">Web</a>
-      </li>
-    </ul>
-
-
-    <div class="col-lg-10 mx-auto works_div">
-      <div class="tab-content" id="pills-tabContent">
-        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-          <div class="container">
-            <div class="row">
-
-              <div class="col-lg-3 col__pad">
-                <a class="" href="#open-modalFour">
-                <div class="card delano view overlay">
-                  <div class="card__text--div">
-                    <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                    <div class="mask rgba-blue-strong card__text">
-                    <div class="content-rel">
-                      <h5 class="white-text card__text--one">Delano Archirects</h5>
-                      <h2 class="white-text card__text--two">Website</h2>
-                    </div>
-                        <!-- <p class="white-text card__text--two">Strong overlay</p> -->
-                    </div>
-                  </div>
-                </div>
-                </a>
-              </div>
-              
+   <section class="">
+      <div class="col-lg-9 mx-auto">
+         <div class="filter">
+            <div class="models">
+            <div class="checkbox">
+               <label><input type="checkbox" rel="apple" onchange="change();"/><span class="pl-3 pt-2">Branding</span></label>
             </div>
-          </div>
-        </div>
-
-        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-          <div class="container">
-            <div class="row">
-
-              <div class="col-lg-3 col__pad">
-                <div class="card card__height view overlay">
-                  <div class="card__text--div">
-                    <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                    <div class="mask rgba-blue-strong card__text">
-                    <div class="content-rel">
-                      <h5 class="white-text card__text--one">Delano Archirects <br /> already there</h5>
-                      <h2 class="white-text card__text--two">Website</h2>
-                    </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              
+            <div class="checkbox">
+               <label><input type="checkbox" rel="samsung" onchange="change();"/><span class="pl-3 pt-2">Applications</span></label>
             </div>
-          </div>
-        </div>
-
-        <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-          <div class="container">
-            <div class="row">
-
-              <div class="col-lg-3 col__pad">
-                <div class="card card__height view overlay">
-                  <div class="card__text--div">
-                    <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                    <div class="mask rgba-blue-strong card__text">
-                    <div class="content-rel">
-                      <h5 class="white-text card__text--one">Delano Archirects <br /> already there</h5>
-                      <h2 class="white-text card__text--two">Website</h2>
-                    </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              
+            <div class="checkbox">
+               <label><input type="checkbox" rel="xiaomi" onchange="change();"/><span class="pl-3 pt-2">Design</span></label>
             </div>
-          </div>
-        </div>
-
-        <div class="tab-pane fade" id="pills-web" role="tabpanel" aria-labelledby="pills-web-tab">
-          <div class="container">
-            <div class="row">
-
-              <div class="col-lg-3 col__pad">
-                <div class="card card__height view overlay">
-                  <div class="card__text--div">
-                    <!-- <img src="https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg" class="img-fluid " alt="smaple image"> -->
-                    <div class="mask rgba-blue-strong card__text">
-                    <div class="content-rel">
-                      <h5 class="white-text card__text--one">Delano Archirects <br /> already there</h5>
-                      <h2 class="white-text card__text--two">Website</h2>
-                    </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
+            <div class="checkbox">
+               <label><input type="checkbox" rel="nokia" onchange="change();"/><span class="pl-3 pt-2">Web</span></label>
             </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-
-  <div class="container">
-        <div class="interior">
-          <!-- <a class="btnFour" href="#open-modalFour">👋 4</a> -->
-        </div>
-      </div>
-      <div id="open-modalFour" class="modal-windowFour slide"><div>
-         <a href="#" title="Close" class="modal-close">Close</a>
-        <div class="text-center mt-5">
-            <h5 class="white-black project-name">Delano Archirects</h5>
-            <h2 class="white-black project-title">Website</h2>
-         </div>
-         <div class="col-9 mx-auto">
-           <div class="summary text-center">
-            <h3 class="summary-text">Summary</h3>
-            <p class="">
-              Delano Architects (DA) is a multi-disciplinary practice that has expertise in architectural design, interior planning, planning and urban design. 
-
-              DA strives to create architectural excellence while working carefully to achieve the client’s goals and needs.
-
-              When they came to us, they had an existing website that did not meet their needs. After conversations, we understood that they needed a better website that would translate their values as a firm as one of the leading architectural firms in Nigeria.
-
-              We decided to with a modern minimalist design in line with the firm’s design ethos. We also did a photoshoot for staff portraits and pictures to be used across the site. 
-
-
-            </p>
-            <h2 class="web-link">https://udemy.com</h2>
-          </div>
-         </div>
          </div>
       </div>
+   </section>
 
+   <section class="col-lg-11 mx-auto works_div">
+      <div class="result row">
+         <!-- <div class="apple card card__height col-lg-3">
+            <h1>iPhone 7</h1>
+         </div> -->
+         <div class="container-img apple col-lg-3 pad-remove">
+            <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">77 Infrastructrure Partnes </h5>
+               <h2 class="white-text card__text--two">Branding</h2>
+            </div>
+         </div>
+
+
+         <div class="container-img xiaomi col-lg-3 pad-remove">
+            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
+               <h2 class="white-text card__text--two">Branding and <br /> website</h2>
+            </div>
+         </div>
+
+         <div class="container-img samsung col-lg-3 pad-remove">
+            <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Helios Investment Partners</h5>
+               <h2 class="white-text card__text--two">IT support</h2>
+            </div>
+         </div>
+
+         <div class="container-img xiaomi col-lg-3 pad-remove">
+            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
+               <h2 class="white-text card__text--two">Branding and <br /> website</h2>
+            </div>
+         </div>
+
+         <div class="container-img xiaomi col-lg-3 pad-remove">
+            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
+               <h2 class="white-text card__text--two">Branding and <br /> website</h2>
+            </div>
+         </div>
+
+         <div class="container-img nokia col-lg-3 pad-remove">
+            <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Delano Archirects </h5>
+               <h2 class="white-text card__text--two">Website</h2>
+            </div>
+         </div>
+
+         <div class="container-img xiaomi col-lg-3 pad-remove">
+            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
+               <h2 class="white-text card__text--two">Branding and <br /> website</h2>
+            </div>
+         </div>
+         <!-- <div class="samsung col-lg-3">
+            <h1>Samsung s7</h1>
+         </div>
+         <div class="xiaomi col-lg-3">
+            <h1>Xiaomi Redmi note 4x</h1>
+         </div>
+         <div class="nokia col-lg-3">
+            <h1>Nokia 6</h1>
+         </div> -->
+      </div>
+      
+
+   </section>
+
+
+   <style>
+.container-img {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  z-index: 2222222;
+  top: 60%;
+  left: 7%;
+  /* transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  /* text-align: center; */
+}
+
+.container-img:hover .image {
+  opacity: 0.3;
+}
+
+.container-img:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+</style>
+
+   <style>
+      .result{
+         /* display: flex ; */
+      }
+      .models {
+         display: flex;
+         justify-content: space-around;
+      }
+      .models label{
+         font-size: 20px;
+         font-weight: bold;
+      }
+
+      input[type=checkbox] {
+         position: relative;
+	       cursor: pointer;
+         }
+         input[type=checkbox]:before {
+               content: "";
+               display: block;
+               position: absolute;
+               width: 20px;
+               height: 20px;
+               top: 0;
+               left: 0;
+               border: 2px solid #555555;
+               border-radius: 3px;
+               background-color: white;
+      }
+         input[type=checkbox]:checked:after {
+               content: "";
+               display: block;
+               width: 8px;
+               height: 12px;
+               border: solid black;
+               border-width: 0 2px 2px 0;
+               -webkit-transform: rotate(45deg);
+               -ms-transform: rotate(45deg);
+               transform: rotate(45deg);
+               position: absolute;
+               top: 2px;
+               left: 6px;
+      }
+
+      label{
+         display: flex;
+         align-items: center;
+         justify-content: center;
+      }
+      .apple{
+         height: 270px;
+         width: 100%;
+         border-radius: 2px;
+         
+         background: rgba(33, 150, 243, 0.7);
+         background-size: cover;
+         cursor: pointer;
+      }
+
+      .samsung{
+         height: 270px;
+         width: 100%;
+         /* background-image: url('../img/delano.jpeg'); */
+         background-size: cover;
+         background: rgba(33, 150, 243, 0.7);
+         background-position: center;
+         cursor: pointer;
+      }
+
+      .xiaomi{
+         height: 270px;
+         width: 100%;
+         /* background-image: url('../img/delano.jpeg'); */
+         background: rgba(33, 150, 243, 0.7);
+         background-size: cover;
+         background-position: center;
+         cursor: pointer;
+      }
+
+      .nokia{
+         height: 270px;
+         width: 100%;
+         /* background-image: url('../img/delano.jpeg'); */
+         background: rgba(33, 150, 243, 0.7);
+         background-size: cover;
+         background-position: center;
+         cursor: pointer;
+      }
+   </style>
+
+  <?php include 'modal.php'; ?>
 
   <!-- Footer -->
   
   <!-- Footer -->
   <!-- /Start your project here-->
+  <script type="text/javascript" src="js/modal.js"></script>
+  <script type="text/javascript" src="js/listing.js"></script>
+
+  <script>
+      function change() {
+         var modelCbs = document.querySelectorAll(".models input[type='checkbox']");
+         var processorCbs = document.querySelectorAll(".processors input[type='checkbox']");
+         var filters = {
+            models: getClassOfCheckedCheckboxes(modelCbs),
+            processors: getClassOfCheckedCheckboxes(processorCbs)
+         };
+
+         filterResults(filters);
+      }
+
+      function getClassOfCheckedCheckboxes(checkboxes) {
+         var classes = [];
+
+         if (checkboxes && checkboxes.length > 0) {
+            for (var i = 0; i < checkboxes.length; i++) {
+               var cb = checkboxes[i];
+
+               if (cb.checked) {
+               classes.push(cb.getAttribute("rel"));
+               }
+            }
+         }
+
+         return classes;
+      }
+
+      function filterResults(filters) {
+         var rElems = document.querySelectorAll(".result div");
+         var hiddenElems = [];
+
+         if (!rElems || rElems.length <= 0) {
+            return;
+         }
+
+         for (var i = 0; i < rElems.length; i++) {
+            var el = rElems[i];
+
+            if (filters.models.length > 0) {
+               var isHidden = true;
+
+               for (var j = 0; j < filters.models.length; j++) {
+               var filter = filters.models[j];
+
+               if (el.classList.contains(filter)) {
+                  isHidden = false;
+                  break;
+               }
+               }
+
+               if (isHidden) {
+               hiddenElems.push(el);
+               }
+            }
+
+            if (filters.processors.length > 0) {
+               var isHidden = true;
+
+               for (var j = 0; j < filters.processors.length; j++) {
+               var filter = filters.processors[j];
+
+               if (el.classList.contains(filter)) {
+                  isHidden = false;
+                  break;
+               }
+               }
+
+               if (isHidden) {
+               hiddenElems.push(el);
+               }
+            }
+         }
+
+         for (var i = 0; i < rElems.length; i++) {
+            rElems[i].style.display = "block";
+         }
+
+         if (hiddenElems.length <= 0) {
+            return;
+         }
+
+         for (var i = 0; i < hiddenElems.length; i++) {
+            hiddenElems[i].style.display = "none";
+         }
+      }
+  </script>
   
   <script>
     const current = document.querySelector('#current');
@@ -241,6 +406,7 @@
   <!-- SCRIPTS -->
   <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="js/listing.js"></script>
   <!-- Bootstrap tooltips -->
   <script type="text/javascript" src="js/popper.min.js"></script>
   <!-- Bootstrap core JavaScript -->
@@ -248,6 +414,7 @@
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="js/mdb.min.js"></script>
   <script type="text/javascript" src="js/parsley.min.js"></script>
+  
 </body>
 
 </html>
