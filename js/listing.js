@@ -69,13 +69,6 @@ document.getElementById('app').innerHTML = `
 
 let mode = document.getElementById('my-mode');
 
-const allCall = async id => {
-  // so instead we save the id into the localStorage
-  // await localStorage.setItem('modalID', id);
-  window.location = '/works.php';
-  // await singleproject(id);
-};
-
 function singleproject(id) {
   const newPet = petsData.find(pet => pet.id == id);
   if (newPet) {
@@ -102,5 +95,5 @@ function singleproject(id) {
         </div>
     `;
   }
-  return; //console.log(newPet);
+  return;
 }

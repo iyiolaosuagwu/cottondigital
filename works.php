@@ -91,16 +91,16 @@
          <!-- <div class="apple card card__height col-lg-3">
             <h1>iPhone 7</h1>
          </div> -->
-         <div class="container-img apple col-lg-3 pad-remove">
+         <div class="container-img apple col-lg-3 pad-remove" onclick="openNavOne()">
             <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">77 Infrastructrure Partnes </h5>
+               <h5 class="white-text card__text--one">77 Infrastructrure <br /> Partnes </h5>
                <h2 class="white-text card__text--two">Branding</h2>
             </div>
          </div>
 
 
-         <div class="container-img xiaomi col-lg-3 pad-remove">
+         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavTwo()">
             <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
@@ -108,31 +108,31 @@
             </div>
          </div>
 
-         <div class="container-img samsung col-lg-3 pad-remove">
+         <div class="container-img samsung col-lg-3 pad-remove" onclick="openNavThree()">
             <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">Helios Investment Partners</h5>
+               <h5 class="white-text card__text--one">Helios Investment <br /> Partners</h5>
                <h2 class="white-text card__text--two">IT support</h2>
             </div>
          </div>
 
-         <div class="container-img xiaomi col-lg-3 pad-remove">
+         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFour()">
             <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
+               <h5 class="white-text card__text--one">Primrose</h5>
                <h2 class="white-text card__text--two">Branding and <br /> website</h2>
             </div>
          </div>
 
-         <div class="container-img xiaomi col-lg-3 pad-remove">
+         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFive()">
             <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
-               <h2 class="white-text card__text--two">Branding and <br /> website</h2>
+               <h5 class="white-text card__text--one">Kogsy Sugarcraft</h5>
+               <h2 class="white-text card__text--two">Branding, Website, Social Media</h2>
             </div>
          </div>
 
-         <div class="container-img nokia col-lg-3 pad-remove">
+         <div class="container-img nokia col-lg-3 pad-remove" onclick="openNav()">
             <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Delano Archirects </h5>
@@ -140,11 +140,12 @@
             </div>
          </div>
 
-         <div class="container-img xiaomi col-lg-3 pad-remove">
+         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavSix()">
             <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
-               <h2 class="white-text card__text--two">Branding and <br /> website</h2>
+               <h5 class="white-text card__text--one">St Mary’s
+hospital</h5>
+               <h2 class="white-text card__text--two">Website, <br /> IT support </h2>
             </div>
          </div>
          <!-- <div class="samsung col-lg-3">
@@ -162,48 +163,29 @@
    </section>
 
 
-   <style>
-.container-img {
-  position: relative;
-  width: 100%;
-}
 
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: 100%;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
+   <!-- <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="">
+         <div class="text-center mt-5">
+            <h5 class="white-black project-name">DELANO ARCHIRECTS</h5>
+            <h2 class="white-black project-title">Website</h2>
+         </div>
 
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  z-index: 2222222;
-  top: 60%;
-  left: 7%;
-  /* transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%); */
-  /* text-align: center; */
-}
+         <div class="col-11 mx-auto">
+            <div class="summary text-center">
+              <h3 class="summary-text">Summary</h3>
+              <p class="">
+                Delano Architects (DA) is a multi-disciplinary practice that has expertise in architectural design, interior planning, planning and urban design. DA strives to create architectural excellence while working carefully to achieve the client’s goals and needs. When they came to us, they had an existing website that did not meet their needs. After conversations, we understood that they needed a better website that would translate their values as a firm as one of the leading architectural firms in Nigeria. We decided to with a modern minimalist design in line with the firm’s design ethos. We also did a photoshoot for staff portraits and pictures to be used across the site.
+              </p>
+              <h2 class="web-link">https://udemy.com</h2>
+            </div>
+          </div>
+          <img class="delano2" src='./img/delano.jpeg' />
+      </div>
+   </div> -->
 
-.container-img:hover .image {
-  opacity: 0.3;
-}
-
-.container-img:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}
-</style>
+   <!-- <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span> -->
 
    <style>
       .result{
@@ -264,7 +246,7 @@
          cursor: pointer;
       }
 
-      .samsung{
+      .samsung {
          height: 270px;
          width: 100%;
          /* background-image: url('../img/delano.jpeg'); */
@@ -274,7 +256,7 @@
          cursor: pointer;
       }
 
-      .xiaomi{
+      .xiaomi {
          height: 270px;
          width: 100%;
          /* background-image: url('../img/delano.jpeg'); */
@@ -284,7 +266,7 @@
          cursor: pointer;
       }
 
-      .nokia{
+      .nokia {
          height: 270px;
          width: 100%;
          /* background-image: url('../img/delano.jpeg'); */
@@ -303,6 +285,7 @@
   <!-- /Start your project here-->
   <script type="text/javascript" src="js/modal.js"></script>
   <script type="text/javascript" src="js/listing.js"></script>
+
 
   <script>
       function change() {
@@ -407,6 +390,7 @@
   <!-- JQuery -->
   <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
   <script type="text/javascript" src="js/listing.js"></script>
+  <script type="text/javascript" src="js/modal.js"></script>
   <!-- Bootstrap tooltips -->
   <script type="text/javascript" src="js/popper.min.js"></script>
   <!-- Bootstrap core JavaScript -->
