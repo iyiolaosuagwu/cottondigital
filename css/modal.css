@@ -13,21 +13,30 @@
   padding-top: 60px;
 }
 
-.sidenav a {
+/* .sidenav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
   color: #818181;
   display: block;
   transition: 0.3s;
-}
+} */
 
 .sidenav .closebtn {
-  position: absolute;
+  position: sticky;
   top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
+  right: 60px;
+  font-size: 60px;
+  float: right;
+
+  /* background-color: #c0c0c0; */
+   /* position:fixed;
+   top:0;
+   width:100%;
+   z-index:100;
+   font-size: 60px; */
+    
+
 }
 
 @media screen and (max-height: 450px) {
@@ -65,11 +74,12 @@
 }
 
 .sidenavOne .closebtn {
-  position: absolute;
+  /* position: absolute;
   top: 0;
   right: 25px;
   font-size: 36px;
-  margin-left: 50px;
+  margin-left: 50px; */
+  
 }
 
 @media screen and (max-height: 450px) {

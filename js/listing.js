@@ -49,7 +49,7 @@ document.getElementById('app').innerHTML = `
     .map(pet => {
       return `
        <div class=' ${pet.style} col-lg-3 col__pad' onClick="allCall()">
-        <a class='' href='#open-modalTwo'>
+        <a class='' href='works.php'>
           <div class='card card__height view overlay'>
             <div class='card__text--div'>
               <div class='mask rgba-blue-strong card__text'>
@@ -66,6 +66,8 @@ document.getElementById('app').innerHTML = `
     })
     .join('')}
 `;
+
+
 
 let mode = document.getElementById('my-mode');
 

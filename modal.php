@@ -28,12 +28,16 @@
 
 <!-- 2 -->
 <div id="mySidenavOne" class="sidenav">
-   <a href="javascript:void(0)" class="closebtn" onclick="closeNavOne()">&times;</a>
-   <div class="">
+   <div style="display: flex; justify-content: space-between;">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNavOne()">&times;</a>
+
       <div class="text-center mt-5">
          <h5 class="white-black project-name">77  Infrastructrure Partnes</h5>
          <h2 class="white-black project-title">Branding</h2>
       </div>
+   </div>
+   <div class="">
+      <
 
       <div class="col-11 mx-auto">
          <div class="summary text-center">

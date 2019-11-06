@@ -613,6 +613,31 @@ footer.page-footer a {
   cursor: pointer;
 }
 
+.text-dk{
+  color: #000;
+}
+
+.text-dk:hover{
+  color: #4285f4 !important;
+}
+
+.navbar .navbar-nav .nav-item.active > .nav-link {
+    color: #4285f4 !important;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.navbar .navbar-nav .nav-item.hover > .nav-link {
+    color: #4285f4 !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-dk:focus{
+  color: #4285f4 !important;
+  font-weight: bold; 
+}
+
 .delano2 {
   height: 400px;
   width: 100%;

@@ -68,79 +68,12 @@
         </div>
       </div>
       <div class="learn__more__two-p">
-        <a href="about.php" class="btn learn__more__two mt-3"> Learn more</a>
+        <a href="works.php" class="btn learn__more__two mt-3"> Learn more</a>
       </div>
         
     </div>
   </section>
 
-  <section class="caro">
-    <!--Carousel Wrapper-->
-<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
-  <!--Indicators-->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-2" data-slide-to="1"></li>
-    <li data-target="#carousel-example-2" data-slide-to="2"></li>
-  </ol>
-  <!--/.Indicators-->
-  <!--Slides-->
-  <div class="carousel-inner" role="listbox">
-    <div class="carousel-item active">
-      <!--Mask color-->
-      <div class="view">
-        <div class="d-block second_slide w-100"></div>
-        <div class="mask rgba-black-light"></div>
-      </div>
-      <div class="carousel-caption cap__caption">
-        <div  class="cap__caption">
-            <h1 class="caro__text herotext">Reliable technical expertise</h1>
-        <a href="" class="btn view__case--study">View case study</a>  
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <!--Mask color-->
-      <div class="view">
-        <div class="d-block w-100 first_slide"></div>
-        <div class="mask rgba-black-light"></div>
-      </div>
-      <div class="carousel-caption cap__caption">
-        <div  class="cap__caption">
-            <h1 class="caro__text herotext">We build engaging sites without breaking the bank </h1>
-        <a href="" class="btn view__case--study">View case study</a>  
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <!--Mask color-->
-      <!--Mask color-->
-      <div class="view">
-        <div class="d-block w-100 third_slide"></div>
-        <div class="mask rgba-black-light"></div>
-      </div>
-      <div class="carousel-caption cap__caption">
-        <div  class="cap__caption">
-            <h1 class="caro__text herotext">Your trusted partner for your success</h1>
-        <a href="" class="btn view__case--study">View case study</a>  
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--/.Slides-->
-  <!--Controls-->
-  <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-  <!--/.Controls-->
-</div>
-<!--/.Carousel Wrapper-->
-  </section>
 
   <section class="some__work">
     <h3 class="text-uppercase client__text">check out some of our work</h3>
@@ -155,6 +88,7 @@
         have a project? talk to an expert
       </h3>
     </section>
+
 
     <div class="container">
       <!-- ff -->
