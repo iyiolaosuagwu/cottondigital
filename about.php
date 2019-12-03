@@ -111,7 +111,7 @@
 								We're always looking for new talent. Show us what you can do.
 							</p>
 						</div>
-						<a href="" class=" btn-lg apply__btn">Apply now</a>
+						<a href="contact.php" class=" btn-lg apply__btn">Apply now</a>
 					</div>
 				</div>
 			</div>

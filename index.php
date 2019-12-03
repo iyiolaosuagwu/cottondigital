@@ -57,7 +57,7 @@
             <img alt="" width="80%" src="./img/helios.png" class="py-4" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/kako.jpg" class="py-4"/>
+            <img alt="" width="80%" src="./img/BKC/bkg.jpeg" class="py-4"/>
           </div>
           <div class="col-lg-3">
             <img alt="" width="80%" src="./img/delano.png" class="py-4" />
@@ -78,7 +78,77 @@
   <section class="some__work">
     <h3 class="text-uppercase client__text">check out some of our work</h3>
       <div class="col-lg-10 mx-auto">
-        <div class="row" id="app"></div>
+        <div class="row" id="appt">
+
+
+          <div class='col-lg-3 col__pad' onClick="allCall()">
+            <a class='' href='works.php'>
+              <div class='card card__height infra view overlay'>
+                <div class='card__text--div'>
+                  <div class='mask rgba-blue-strong card__text'>
+                    <div class='content-rel'>
+                      <h5 class='white-text card__text--one'>77 Infrastructrure Partnes</h5>
+                      <h2 class='white-text card__text--two'>Branding</h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div class='col-lg-3 col__pad' onClick="allCall()">
+            <a class='' href='works.php'>
+              <div class='card card__height Babajide view overlay'>
+                <div class='card__text--div'>
+                  <div class='mask rgba-blue-strong card__text'>
+                    <div class='content-rel'>
+                      <h5 class='white-text card__text--one'>Babajide Koku & Co</h5>
+                      <h2 class='white-text card__text--two'>Branding and website</h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+
+
+          
+
+
+
+          <div class='col-lg-3 col__pad' onClick="allCall()">
+            <a class='' href='works.php'>
+              <div class='card card__height prime view overlay'>
+                <div class='card__text--div'>
+                  <div class='mask rgba-blue-strong card__text'>
+                    <div class='content-rel'>
+                      <h5 class='white-text card__text--one'>Primerose</h5>
+                      <h2 class='white-text card__text--two'>Website and Branding</h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+
+
+
+
+          <div class='col-lg-3 col__pad' onClick="allCall()">
+            <a class='' href='works.php'>
+              <div class='card card__height delano-img view overlay'>
+                <div class='card__text--div'>
+                  <div class='mask rgba-blue-strong card__text'>
+                    <div class='content-rel'>
+                      <h5 class='white-text card__text--one'>Delano Archirects</h5>
+                      <h2 class='white-text card__text--two'>Website</h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
       </div>
   </section>
 

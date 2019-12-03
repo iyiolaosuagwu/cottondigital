@@ -8,8 +8,8 @@
             <h2 class="mb-0 headers">CONTACT</h2>
             <p>
               <li class="digit">08093895270</li>
-              <li class="digit">info@cottndigital.io</li>
-              <li class="digit">9 sabiu ajose crecent</li>
+              <li class="digit">Info@cottndigital.io</li>
+              <li class="digit">9 Sabiu ajose crecent</li>
               <li class="digit">Off bode thomas surulere</li>
               <!-- <li class="">Carrier Pigeon</li> -->
             </p>

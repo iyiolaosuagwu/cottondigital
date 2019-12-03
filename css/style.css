@@ -595,7 +595,30 @@ footer.page-footer a {
   height: 250px;
   width: 100%;
   border-radius: 2px;
-  background-image: url('https://mdbootstrap.com/img/Photos/Others/forest-sm.jpg');
+  background-size: cover;
+  cursor: pointer;
+}
+
+.infra {
+  background-image: url('../img/77infra/77infr\ ipad.jpg');
+  background-size: cover;
+  cursor: pointer;
+}
+
+.Babajide {
+  background-image: url('../img/BKC/BKC\ MUG.jpg');
+  background-size: cover;
+  cursor: pointer;
+}
+
+.prime {
+  background-image: url('../img/primerose/business\ card.jpg');
+  background-size: cover;
+  cursor: pointer;
+}
+
+.delano-img {
+  background-image: url('../img/delano/macbook.jpg');
   background-size: cover;
   cursor: pointer;
 }
@@ -613,29 +636,29 @@ footer.page-footer a {
   cursor: pointer;
 }
 
-.text-dk{
+.text-dk {
   color: #000;
 }
 
-.text-dk:hover{
+.text-dk:hover {
   color: #4285f4 !important;
 }
 
 .navbar .navbar-nav .nav-item.active > .nav-link {
-    color: #4285f4 !important;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 19px;
-    font-weight: 600;
+  color: #4285f4 !important;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+  font-weight: 600;
 }
 
 .navbar .navbar-nav .nav-item.hover > .nav-link {
-    color: #4285f4 !important;
-    font-family: 'Open Sans', sans-serif;
+  color: #4285f4 !important;
+  font-family: 'Open Sans', sans-serif;
 }
 
-.text-dk:focus{
+.text-dk:focus {
   color: #4285f4 !important;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 .delano2 {

@@ -66,36 +66,3 @@ document.getElementById('app').innerHTML = `
     })
     .join('')}
 `;
-
-
-
-let mode = document.getElementById('my-mode');
-
-function singleproject(id) {
-  const newPet = petsData.find(pet => pet.id == id);
-  if (newPet) {
-    document.getElementById(
-      'my-mode'
-    ).innerHTML = `  <div id="open-modalTwo" class="modal-windowTwo">
-        <div style="overflow: scroll">
-          <a href="#" title="Close" class="modal-close">CLOSE</a>
-          <div class="text-center mt-5">
-              <h5 class="white-black project-name">${newPet.name}</h5>
-              <h2 class="white-black project-title">${newPet.subName}</h2>
-          </div>
-          <div class="col-11 mx-auto">
-            <div class="summary text-center">
-              <h3 class="summary-text">Summary</h3>
-              <p class="">
-                ${newPet.summaryText}
-              </p>
-              <h2 class="web-link">https://udemy.com</h2>
-              <a class="learn-link" href='${newPet.link}'>Learn More</a>
-            </div>
-          </div>
-          <img class="delano2" src='${newPet.photo}' />
-        </div>
-    `;
-  }
-  return;
-}

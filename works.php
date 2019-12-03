@@ -99,7 +99,7 @@
             <h1>iPhone 7</h1>
          </div> -->
          <div class="container-img apple col-lg-3 pad-remove" onclick="openNavOne()">
-            <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
+            <img src="./img/77infra/77infr_card.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">77 Infrastructrure <br /> Partnes </h5>
                <h2 class="white-text card__text--two">Branding</h2>
@@ -115,16 +115,16 @@
             </div>
          </div>
 
-         <div class="container-img samsung col-lg-3 pad-remove" onclick="openNavThree()">
+         <!-- <div class="container-img samsung col-lg-3 pad-remove" onclick="openNavThree()">
             <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Helios Investment <br /> Partners</h5>
                <h2 class="white-text card__text--two">IT support</h2>
             </div>
-         </div>
+         </div> -->
 
          <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFour()">
-            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <img src="./img/primerose/website_on_macbook.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Primrose</h5>
                <h2 class="white-text card__text--two">Branding and <br /> website</h2>
@@ -132,7 +132,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFive()">
-            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <img src="./img/kogsy/kogsy_IG.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Kogsy Sugarcraft</h5>
                <h2 class="white-text card__text--two">Branding, Website, Social Media</h2>
@@ -148,7 +148,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavSix()">
-            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+            <img src="./img/st_mary.png" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">St Mary’s
 hospital</h5>
