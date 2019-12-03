@@ -22,7 +22,24 @@
             </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/delano/delano3.jpg' />
+          <!-- <div class="row">
+            <div class="col-md-4 p-0 m-0"></div>
+            <div class="col-md-4 p-0 m-0"></div>
+            <div class="col-md-4 p-0 m-0"></div>
+         </div> -->
+
+          <div class="row">
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/delano/delano3.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/delano/delano1.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/delano/delano2.jpg' />
+            </div>
+         </div>
+         
    </div>
 </div>
 <!-- 1 -->
@@ -50,7 +67,19 @@
             </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/77infra/77infr_envelope.jpg' />
+         <div class="row p-0 m-0">
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/77infra/77infr_envelope.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/77infra/76dev card.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/77infra/77infr logo.jpg' />
+            </div>
+         </div>
    </div>
 </div>
 
@@ -77,7 +106,17 @@
             </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/BKC/website_on_mobile.jpg' />
+         <div class="row">
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/BKC/website_on_mobile.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/BKC/BKC letterhead.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/BKC/Business_card.jpg' />
+            </div>
+         </div>
    </div>
 </div>
 
@@ -97,12 +136,27 @@
          <div class="summary text-center">
             <h3 class="summary-text">Summary</h3>
             <p class="">
-               Delano Architects (DA) is a multi-disciplinary practice that has expertise in architectural design, interior planning, planning and urban design. DA strives to create architectural excellence while working carefully to achieve the client’s goals and needs. When they came to us, they had an existing website that did not meet their needs. After conversations, we understood that they needed a better website that would translate their values as a firm as one of the leading architectural firms in Nigeria. We decided to with a modern minimalist design in line with the firm’s design ethos. We also did a photoshoot for staff portraits and pictures to be used across the site.
+               Helios investment partners is the leading Africa focused  private equity fund with over a billion dollars under management (check the correct term) 
+
+They had consistent issues in thier lagos office with internet connectivity and software not working reliably. 
+
+They hired us to fix thier issues as they needed 99.9% uptime. We came in and optimized their network giving them multiple ISPs and a load balancer.
             </p>
-            <h2 class="web-link">https://udemy.com</h2>
+            <h2 class="web-link">
+               <a href="https://www.heliosinvestment.com/">https://www.heliosinvestment.com/</a>
+            </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/delano.jpeg' />
+        
+         <div class="row">
+            <div class="col-md-4 p-0 m-0">
+            <img class="delano2" src='./img/helo/helo1.jpeg' /></div>
+            <div class="col-md-4 p-0 m-0">
+            <img class="delano2" src='./img/helo/helo2.jpeg' /></div>
+            <div class="col-md-4 p-0 m-0">
+            <img class="delano2" src='./img/helo/helo4.jpeg' /></div>
+         </div>
+         
    </div>
 </div>
 
@@ -124,14 +178,25 @@
          <div class="summary text-center">
             <h3 class="summary-text">Summary</h3>
             <p class="">
-               Delano Architects (DA) is a multi-disciplinary practice that has expertise in architectural design, interior planning, planning and urban design. DA strives to create architectural excellence while working carefully to achieve the client’s goals and needs. When they came to us, they had an existing website that did not meet their needs. After conversations, we understood that they needed a better website that would translate their values as a firm as one of the leading architectural firms in Nigeria. We decided to with a modern minimalist design in line with the firm’s design ethos. We also did a photoshoot for staff portraits and pictures to be used across the site.
+               A leading facilities company mention airport and sapetro as clients that wanted to bring their brand into the 21st century, we did a photoshoot of staff at work to add authenticity to their website
             </p>
-            <!-- <h2 class="web-link">
+            <h2 class="web-link">
             <a href="http://primerose.com/">http://primerose.com/</a>
-            </h2> -->
+            </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/primerose/business_card2.jpg' />
+         
+         <div class="row">
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/primerose/business_card2.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/primerose/business card.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/primerose/envelop.jpg' />
+            </div>
+         </div>
    </div>
 </div>
 
@@ -155,7 +220,7 @@
          <div class="summary text-center">
             <h3 class="summary-text">Summary</h3>
             <p class="">
-               Delano Architects (DA) is a multi-disciplinary practice that has expertise in architectural design, interior planning, planning and urban design. DA strives to create architectural excellence while working carefully to achieve the client’s goals and needs. When they came to us, they had an existing website that did not meet their needs. After conversations, we understood that they needed a better website that would translate their values as a firm as one of the leading architectural firms in Nigeria. We decided to with a modern minimalist design in line with the firm’s design ethos. We also did a photoshoot for staff portraits and pictures to be used across the site.
+               the leading sugar craft company in Nigeria, no one has paid a greater influence on the cake industry in Nigeria, The needed a new identity to place them the undisputed no 1 premium cake decorating  brand in Nigeria and also a new website to allow registration for their classes and sell their products online
             </p>
             <h2 class="web-link">
                <a href="http://kogsysugarcraft.com.ng
@@ -164,7 +229,18 @@
             </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/kogsy/kogsy_fb.jpg' />
+         
+         <div class="row">
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/kogsy/kogsy_fb.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/kogsy/kogsy_IG.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/kogsy/sc1.png' />
+            </div>
+         </div>
    </div>
 </div>
 
@@ -189,7 +265,7 @@ hospital</h5>
          <div class="summary text-center">
             <h3 class="summary-text">Summary</h3>
             <p class="">
-               St. Mary’s Hospital is an effort towards making available excellent and quality healthcare services and solutions at affordable expenses, in order to give rise to a healthier community in the Nigeria. We are motivated to provide private healthcare facilities to maximum number of people, acknowledging a common man’s right to good health and effective medical treatment. Contact on the following giving details to get an appointment for yourself at St. Mary’s Hospital.
+               St Mary’s specialist hospital needed a reliable partner to help them transition to their new electronic Electronic medical records system and also provide a reliable network infrastructure to them. We also provided them with a website and did a photoshoot for them to use on their website and print materials
             </p>
             <h2 class="web-link">
                <a href="http://stmaryshospital.com.ng/">http://stmaryshospital.com.ng/</a>

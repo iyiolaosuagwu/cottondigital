@@ -115,13 +115,13 @@
             </div>
          </div>
 
-         <!-- <div class="container-img samsung col-lg-3 pad-remove" onclick="openNavThree()">
-            <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
+         <div class="container-img samsung col-lg-3 pad-remove" onclick="openNavThree()">
+            <img src="./img/helo/helo3.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Helios Investment <br /> Partners</h5>
                <h2 class="white-text card__text--two">IT support</h2>
             </div>
-         </div> -->
+         </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFour()">
             <img src="./img/primerose/website_on_macbook.jpg" alt="Avatar" class="image" style="width:100%">

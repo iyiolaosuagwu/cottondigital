@@ -28,15 +28,13 @@
   right: 60px;
   font-size: 60px;
   float: right;
-
+  z-index: 100000;
   /* background-color: #c0c0c0; */
-   /* position:fixed;
+  /* position:fixed;
    top:0;
    width:100%;
-   z-index:100;
+   
    font-size: 60px; */
-    
-
 }
 
 @media screen and (max-height: 450px) {
@@ -79,7 +77,6 @@
   right: 25px;
   font-size: 36px;
   margin-left: 50px; */
-  
 }
 
 @media screen and (max-height: 450px) {
@@ -311,7 +308,6 @@
 }
 
 /* 7 */
-
 
 /* 8 */
 
