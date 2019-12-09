@@ -85,7 +85,7 @@
             <a class='' href='works.php'>
               <div class='card card__height infra view overlay'>
                 <div class='card__text--div'>
-                  <div class='mask rgba-blue-strong card__text'>
+                  <div class='mask red_over_lay card__text'>
                     <div class='content-rel'>
                       <h5 class='white-text card__text--one'>77 Infrastructrure Partnes</h5>
                       <h2 class='white-text card__text--two'>Branding</h2>
@@ -120,7 +120,7 @@
             <a class='' href='works.php'>
               <div class='card card__height prime view overlay'>
                 <div class='card__text--div'>
-                  <div class='mask rgba-blue-strong card__text'>
+                  <div class='mask yellow_over_lay card__text'>
                     <div class='content-rel'>
                       <h5 class='white-text card__text--one'>Primerose</h5>
                       <h2 class='white-text card__text--two'>Website and Branding</h2>
@@ -138,7 +138,7 @@
             <a class='' href='works.php'>
               <div class='card card__height delano-img view overlay'>
                 <div class='card__text--div'>
-                  <div class='mask rgba-blue-strong card__text'>
+                  <div class='mask green_over_lay card__text'>
                     <div class='content-rel'>
                       <h5 class='white-text card__text--one'>Delano Archirects</h5>
                       <h2 class='white-text card__text--two'>Website</h2>

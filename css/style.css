@@ -636,6 +636,18 @@ footer.page-footer a {
   cursor: pointer;
 }
 
+.red_over_lay {
+  background-color: rgba(251, 91, 88, 0.9);
+}
+
+.yellow_over_lay {
+  background-color: rgba(252, 214, 68, 0.9);
+}
+
+.green_over_lay {
+  background-color: rgba(71, 215, 172, 0.9);
+}
+
 .text-dk {
   color: #000;
 }

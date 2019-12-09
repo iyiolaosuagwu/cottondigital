@@ -9,8 +9,8 @@
             <p>
               <li class="digit">08093895270</li>
               <li class="digit">Info@cottndigital.io</li>
-              <li class="digit">9 Sabiu ajose crecent</li>
-              <li class="digit">Off bode thomas surulere</li>
+              <li class="digit">9 Sabiu Ajose Crecent</li>
+              <li class="digit">Off Bode Thomas Surulere</li>
               <!-- <li class="">Carrier Pigeon</li> -->
             </p>
           </div>

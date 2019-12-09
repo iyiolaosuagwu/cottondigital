@@ -272,7 +272,17 @@ hospital</h5>
             </h2>
          </div>
          </div>
-         <img class="delano2" src='./img/st_mary.png' />
+         <div class="row">
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/stmary/business-computer-connection-data-1054397.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/stmary/close-up-of-telephone-booth-257736.jpg' />
+            </div>
+            <div class="col-md-4 p-0 m-0">
+               <img class="delano2" src='./img/stmary/business-businessmen-classroom-communication-267507.jpg' />
+            </div>
+         </div>
    </div>
 </div>
 

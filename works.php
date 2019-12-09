@@ -98,7 +98,7 @@
          <!-- <div class="apple card card__height col-lg-3">
             <h1>iPhone 7</h1>
          </div> -->
-         <div class="container-img apple col-lg-3 pad-remove" onclick="openNavOne()">
+         <div class="container-img apple col-lg-3 pad-remove yellow_over_lay" onclick="openNavOne()">
             <img src="./img/77infra/77infr_card.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">77 Infrastructrure <br /> Partnes </h5>
@@ -107,15 +107,15 @@
          </div>
 
 
-         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavTwo()">
-            <img src="./img/kako.jpeg" alt="Avatar" class="image" style="width:100%">
+         <div class="container-img xiaomi col-lg-3 pad-remove red_over_lay" onclick="openNavTwo()">
+            <img src="./img/BKC/Business_card.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
                <h2 class="white-text card__text--two">Branding and <br /> website</h2>
             </div>
          </div>
 
-         <div class="container-img samsung col-lg-3 pad-remove" onclick="openNavThree()">
+         <div class="container-img samsung col-lg-3 pad-remove green_over_lay" onclick="openNavThree()">
             <img src="./img/helo/helo3.jpeg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Helios Investment <br /> Partners</h5>
@@ -123,7 +123,7 @@
             </div>
          </div>
 
-         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFour()">
+         <div class="container-img xiaomi col-lg-3 pad-remove rgba-blue-strong" onclick="openNavFour()">
             <img src="./img/primerose/website_on_macbook.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Primrose</h5>
@@ -131,7 +131,7 @@
             </div>
          </div>
 
-         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavFive()">
+         <div class="container-img xiaomi col-lg-3 pad-remove green_over_lay" onclick="openNavFive()">
             <img src="./img/kogsy/kogsy_IG.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Kogsy Sugarcraft</h5>
@@ -139,19 +139,18 @@
             </div>
          </div>
 
-         <div class="container-img nokia col-lg-3 pad-remove" onclick="openNav()">
-            <img src="./img/delano.jpeg" alt="Avatar" class="image" style="width:100%">
+         <div class="container-img nokia col-lg-3 pad-remove yellow_over_lay mask" onclick="openNav()">
+            <img src="./img/delano/imac_delano.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Delano Archirects </h5>
                <h2 class="white-text card__text--two">Website</h2>
             </div>
          </div>
 
-         <div class="container-img xiaomi col-lg-3 pad-remove" onclick="openNavSix()">
-            <img src="./img/st_mary.png" alt="Avatar" class="image" style="width:100%">
+         <div class="container-img xiaomi col-lg-3 pad-remove red_over_lay mask" onclick="openNavSix()">
+            <img src="./img/stmary/business-businessmen-classroom-communication-267507.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">St Mary’s
-hospital</h5>
+               <h5 class="white-text card__text--one">St Mary’s hospital</h5>
                <h2 class="white-text card__text--two">Website, <br /> IT support </h2>
             </div>
          </div>
@@ -248,7 +247,7 @@ hospital</h5>
          width: 100%;
          border-radius: 2px;
          
-         background: rgba(33, 150, 243, 0.7);
+         /* background: rgba(33, 150, 243, 0.7); */
          background-size: cover;
          cursor: pointer;
       }
@@ -258,7 +257,7 @@ hospital</h5>
          width: 100%;
          /* background-image: url('../img/delano.jpeg'); */
          background-size: cover;
-         background: rgba(33, 150, 243, 0.7);
+         /* background: rgba(33, 150, 243, 0.7); */
          background-position: center;
          cursor: pointer;
       }
@@ -267,7 +266,7 @@ hospital</h5>
          height: 270px;
          width: 100%;
          /* background-image: url('../img/delano.jpeg'); */
-         background: rgba(33, 150, 243, 0.7);
+         /* background: rgba(33, 150, 243, 0.7); */
          background-size: cover;
          background-position: center;
          cursor: pointer;
@@ -277,7 +276,7 @@ hospital</h5>
          height: 270px;
          width: 100%;
          /* background-image: url('../img/delano.jpeg'); */
-         background: rgba(33, 150, 243, 0.7);
+         /* background: rgba(33, 150, 243, 0.7); */
          background-size: cover;
          background-position: center;
          cursor: pointer;
