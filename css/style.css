@@ -647,7 +647,6 @@ footer.page-footer a {
 .green_over_lay {
   background-color: rgba(71, 215, 172, 0.9);
 }
-
 .text-dk {
   color: #000;
 }
@@ -681,8 +680,20 @@ footer.page-footer a {
   background-size: cover;
   background-position: center;
   cursor: pointer;
-  margin-bottom: 2rem;
-  margin-top: 1rem;
+  /* margin-bottom: 2rem;
+  margin-top: 1rem; */
+}
+
+.delanobox {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  /* background-image: url('../img/delano.jpeg'); */
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  /* margin-bottom: 2rem;
+  margin-top: 1rem; */
 }
 
 .kako {

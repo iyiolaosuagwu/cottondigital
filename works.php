@@ -116,7 +116,7 @@
          </div>
 
          <div class="container-img samsung col-lg-3 pad-remove green_over_lay" onclick="openNavThree()">
-            <img src="./img/helo/helo3.jpeg" alt="Avatar" class="image" style="width:100%">
+            <img src="./img/Helios/one.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Helios Investment <br /> Partners</h5>
                <h2 class="white-text card__text--two">IT support</h2>
@@ -148,10 +148,19 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove red_over_lay mask" onclick="openNavSix()">
-            <img src="./img/stmary/business-businessmen-classroom-communication-267507.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./img/ST MARY/website.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">St Mary’s hospital</h5>
                <h2 class="white-text card__text--two">Website, <br /> IT support </h2>
+            </div>
+         </div>
+
+
+         <div class="container-img nokia col-lg-3 pad-remove rgba-blue-strong mask" onclick="openNavSeven()">
+            <img src="./img/Tosan/Tosan_1.jpg" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+               <h5 class="white-text card__text--one">Cake By Tosan</h5>
+               <h2 class="white-text card__text--two">Website</h2>
             </div>
          </div>
          <!-- <div class="samsung col-lg-3">
