@@ -132,7 +132,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove green_over_lay" onclick="openNavFive()">
-            <img src="./Assets/kogsy/kogsy IG.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/Kogsy/kogsy IG.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Kogsy Sugarcraft</h5>
                <h2 class="white-text card__text--two">Branding, Website, Social Media</h2>
@@ -140,7 +140,7 @@
          </div>
 
          <div class="container-img nokia col-lg-3 pad-remove yellow_over_lay mask" onclick="openNav()">
-            <img src="./Assets/delano/imac delano.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/Delano/imac delano.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Delano Archirects </h5>
                <h2 class="white-text card__text--two">Website</h2>
