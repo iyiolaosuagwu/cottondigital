@@ -336,25 +336,25 @@ hospital</h5>
          </div>
          <div class="row">
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./Assets/ST MARY/bus2.jpg' />
+               <img class="delanobox" src='./Assets/STMARY/bus2.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./Assets/ST MARY/business Card.jpg' />
+               <img class="delanobox" src='./Assets/STMARY/business Card.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./Assets/ST MARY/compliments.jpg' />
-            </div>
-
-            <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./Assets/ST MARY/home1.jpg' />
+               <img class="delanobox" src='./Assets/STMARY/compliments.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./Assets/ST MARY/letterhead.jpg' />
+               <img class="delanobox" src='./Assets/STMARY/home1.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./Assets/ST MARY/smartmockups_k3znq5lg.jpg' />
+               <img class="delanobox" src='./Assets/STMARY/letterhead.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delanobox" src='./Assets/STMARY/smartmockups_k3znq5lg.jpg' />
             </div>
          </div>
    </div>

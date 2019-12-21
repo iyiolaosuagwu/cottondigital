@@ -148,7 +148,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove red_over_lay mask" onclick="openNavSix()">
-            <img src="./Assets/ST MARY/website.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/STMARY/website.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">St Mary’s hospital</h5>
                <h2 class="white-text card__text--two">Website, <br /> IT support </h2>
