@@ -127,12 +127,7 @@
             <span class="bt-flabels__error-desc">Name Required</span>
           </div>
         </div>
-        <!-- <div class="uk-width-1-2">
-          <div class="bt-flabels__wrapper bt-flabels--right">
-            <input type="text" class="form-control input my-4" name="last_name" autocomplete="off" placeholder="Company" data-parsley-required />
-            <span class="bt-flabels__error-desc">Company Required</span>
-          </div>
-        </div> -->
+        
       </div>
       <div class="bt-flabels__wrapper">
         <!-- <label>Email</label> -->

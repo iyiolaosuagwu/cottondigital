@@ -600,25 +600,25 @@ footer.page-footer a {
 }
 
 .infra {
-  background-image: url('../img/77infra/77infr\ ipad.jpg');
+  background-image: url('../Assets/77infra/77infr ipad.jpg');
   background-size: cover;
   cursor: pointer;
 }
 
 .Babajide {
-  background-image: url('../img/BKC/BKC\ MUG.jpg');
+  background-image: url('../Assets/BKC/BKC\ MUG.jpg');
   background-size: cover;
   cursor: pointer;
 }
 
 .prime {
-  background-image: url('../img/primerose/business\ card.jpg');
+  background-image: url('../Assets/Primrose/business\ card.jpg');
   background-size: cover;
   cursor: pointer;
 }
 
 .delano-img {
-  background-image: url('../img/delano/macbook.jpg');
+  background-image: url('../Assets/Delano/macbook.jpg');
   background-size: cover;
   cursor: pointer;
 }

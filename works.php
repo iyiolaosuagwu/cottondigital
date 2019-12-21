@@ -99,7 +99,7 @@
             <h1>iPhone 7</h1>
          </div> -->
          <div class="container-img apple col-lg-3 pad-remove yellow_over_lay" onclick="openNavOne()">
-            <img src="./img/77infra/77infr_card.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/77infra/77infr card.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">77 Infrastructrure <br /> Partnes </h5>
                <h2 class="white-text card__text--two">Branding</h2>
@@ -108,7 +108,7 @@
 
 
          <div class="container-img xiaomi col-lg-3 pad-remove red_over_lay" onclick="openNavTwo()">
-            <img src="./img/BKC/Business_card.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/BKC/Business card.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Babajide Koku & Co</h5>
                <h2 class="white-text card__text--two">Branding and <br /> website</h2>
@@ -116,7 +116,7 @@
          </div>
 
          <div class="container-img samsung col-lg-3 pad-remove green_over_lay" onclick="openNavThree()">
-            <img src="./img/Helios/one.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/Helios/one.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Helios Investment <br /> Partners</h5>
                <h2 class="white-text card__text--two">IT support</h2>
@@ -124,7 +124,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove rgba-blue-strong" onclick="openNavFour()">
-            <img src="./img/primerose/website_on_macbook.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/Primrose/website on macbook.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Primrose</h5>
                <h2 class="white-text card__text--two">Branding and <br /> website</h2>
@@ -132,7 +132,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove green_over_lay" onclick="openNavFive()">
-            <img src="./img/kogsy/kogsy_IG.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/kogsy/kogsy IG.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Kogsy Sugarcraft</h5>
                <h2 class="white-text card__text--two">Branding, Website, Social Media</h2>
@@ -140,7 +140,7 @@
          </div>
 
          <div class="container-img nokia col-lg-3 pad-remove yellow_over_lay mask" onclick="openNav()">
-            <img src="./img/delano/imac_delano.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/delano/imac delano.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">Delano Archirects </h5>
                <h2 class="white-text card__text--two">Website</h2>
@@ -148,7 +148,7 @@
          </div>
 
          <div class="container-img xiaomi col-lg-3 pad-remove red_over_lay mask" onclick="openNavSix()">
-            <img src="./img/ST MARY/website.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/ST MARY/website.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
                <h5 class="white-text card__text--one">St Mary’s hospital</h5>
                <h2 class="white-text card__text--two">Website, <br /> IT support </h2>
@@ -157,9 +157,9 @@
 
 
          <div class="container-img nokia col-lg-3 pad-remove rgba-blue-strong mask" onclick="openNavSeven()">
-            <img src="./img/Tosan/Tosan_1.jpg" alt="Avatar" class="image" style="width:100%">
+            <img src="./Assets/Tosan/Tosan 1.jpg" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-               <h5 class="white-text card__text--one">Cake By Tosan</h5>
+               <h5 class="white-text card__text--one">CakeByTosan</h5>
                <h2 class="white-text card__text--two">Website</h2>
             </div>
          </div>

@@ -30,26 +30,23 @@
 
           <div class="row">
              <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/delano/imac delano1.jpg' />
+               <img class="delanobox" src='./Assets/Delano/imac delano1.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/delano/imac_delano.jpg' />
+               <img class="delanobox" src='./Assets/Delano/imac delano.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/delano/macbook.jpg' />
+               <img class="delanobox" src='./Assets/Delano/macbook.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/delano/delano3.jpg' />
+               <img class="delanobox" src='./Assets/Delano/Holding_iPad.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/delano/delano1.jpg' />
+               <img class="delanobox" src='./Assets/Delano/macbook1.jpg' />
             </div>
-            <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/delano/delano2.jpg' />
-            </div>
-
+            
             
          </div>
          
@@ -82,27 +79,27 @@
          </div>
          <div class="row p-0 m-0">
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/77infra/77infr_envelope.jpg' />
+               <img class="delanobox" src='./Assets/77infra/77infr envelope.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/77infra/76dev card.jpg' />
+               <img class="delanobox" src='./Assets/77infra/77infr calendar.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/77infra/77infr logo.jpg' />
+               <img class="delanobox" src='./Assets/77infra/77infr logo.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/77infra/77infr ipad.jpg' />
+               <img class="delanobox" src='./Assets/77infra/77infr ipad.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/77infra/77infr stationary.jpg' />
+               <img class="delanobox" src='./Assets/77infra/77infr stationary.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/77infra/77infra coffee.jpg' />
+               <img class="delanobox" src='./Assets/77infra/77infra coffee.jpg' />
             </div>
          </div>
    </div>
@@ -132,26 +129,28 @@
          </div>
          </div>
          <div class="row">
+
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/BKC/website_on_mobile.jpg' />
+               <img class="delanobox" src='./Assets/BKC/bkcsite1.jpg' />
+            </div>
+            
+            <div class="col-md-4 p-0 m-0">
+               <img class="delanobox" src='./Assets/BKC/BKC letterhead.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/BKC/BKC letterhead.jpg' />
-            </div>
-            <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/BKC/Business_card.jpg' />
+               <img class="delanobox" src='./Assets/BKC/Business card.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/BKC/BKC MUG.jpg' />
+               <img class="delanobox" src='./Assets/BKC/BKC MUG.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/BKC/Screenshot_20191120-155956.png' />
+               <img class="delanobox" src='./Assets/BKC/bkcsite.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/BKC/Screenshot_20191120-160024.png' />
+               <img class="delanobox" src='./Assets/BKC/website on mobile.jpg' />
             </div>
 
          </div>
@@ -188,21 +187,23 @@ They hired us to fix thier issues as they needed 99.9% uptime. We came in and op
         
          <div class="row">
             <div class="col-md-4 p-0 m-0">
-            <img class="delanobox" src='./img/Helios/smartmockups_k3o9uulb.jpg' /></div>
+               <img class="delanobox" src='./Assets/Helios/smartmockups_k3o9uulb.jpg' />
+            </div>
+
             <div class="col-md-4 p-0 m-0">
-            <img class="delanobox" src='./img/Helios/smartmockups_k3o9zugu.jpg' /></div>
+               <img class="delanobox" src='./Assets/Helios/smartmockups_k3o9zugu.jpg' />
+            </div>
             
-
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Helios/The_Top20Cybersecurity_Terms_You_Need_to_Know.jpg' />
+               <img class="delanobox" src='./Assets/Helios/The_Top20Cybersecurity_Terms_You_Need_to_Know.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Helios/unifi-ap-ac-lite.jpg' />
+               <img class="delanobox" src='./Assets/Helios/unifi-ap-ac-lite.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Helios/one.jpg' />
+               <img class="delanobox" src='./Assets/Helios/one.jpg' />
             </div>
          </div>
          
@@ -237,25 +238,25 @@ They hired us to fix thier issues as they needed 99.9% uptime. We came in and op
          
          <div class="row">
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/primerose/business_card2.jpg' />
+               <img class="delanobox" src='./Assets/Primrose/business card2.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/primerose/business card.jpg' />
+               <img class="delanobox" src='./Assets/Primrose/business card.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/primerose/envelop.jpg' />
-            </div>
-
-            <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/primerose/iphone.jpg' />
+               <img class="delanobox" src='./Assets/Primrose/envelop.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/primerose/logo on shirt1.jpg' />
+               <img class="delanobox" src='./Assets/Primrose/iphone.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/primerose/website_on_macbook.jpg' />
+               <img class="delanobox" src='./Assets/Primrose/primrose logo.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delanobox" src='./Assets/Primrose/website on macbook.jpg' />
             </div>
          </div>
    </div>
@@ -293,17 +294,13 @@ They hired us to fix thier issues as they needed 99.9% uptime. We came in and op
          
          <div class="row">
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/kogsy/kogsy_fb.jpg' />
+               <img class="delanobox" src='./Assets/Kogsy/kogsy fb.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/kogsy/kogsy_IG.jpg' />
+               <img class="delanobox" src='./Assets/Kogsy/kogsy IG.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/kogsy/sc1.png' />
-            </div>
-
-            <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/kogsy/Screenshot_20191121-002822.png' />
+               <img class="delanobox" src='./Assets/Kogsy/sc1.png' />
             </div>
          </div>
    </div>
@@ -339,25 +336,25 @@ hospital</h5>
          </div>
          <div class="row">
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/ST MARY/bus2.jpg' />
+               <img class="delanobox" src='./Assets/ST MARY/bus2.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/ST MARY/business Card.jpg' />
+               <img class="delanobox" src='./Assets/ST MARY/business Card.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/ST MARY/compliments.jpg' />
-            </div>
-
-            <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/ST MARY/home1.jpg' />
+               <img class="delanobox" src='./Assets/ST MARY/compliments.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/ST MARY/letterhead.jpg' />
+               <img class="delanobox" src='./Assets/ST MARY/home1.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/ST MARY/smartmockups_k3znmq7y.png' />
+               <img class="delanobox" src='./Assets/ST MARY/letterhead.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delanobox" src='./Assets/ST MARY/smartmockups_k3znq5lg.jpg' />
             </div>
          </div>
    </div>
@@ -371,7 +368,7 @@ hospital</h5>
    <a href="javascript:void(0)" class="closebtn" onclick="closeNavSeven()">&times;</a>
    <div class="">
       <div class="text-center mt-5">
-         <h5 class="white-black project-name">Cake By Tosan</h5>
+         <h5 class="white-black project-name">CakeByTosan</h5>
          <h2 class="white-black project-title">
             Website
          </h2>
@@ -390,17 +387,25 @@ hospital</h5>
          </div>
          <div class="row">
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Tosan/Tosan_1.jpg' />
+               <img class="delanobox" src='./Assets/Tosan/Tosan 1.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Tosan/tosan 2.jpg' />
+               <img class="delanobox" src='./Assets/Tosan/tosan 2.jpg' />
             </div>
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Tosan/tosan 3.png' />
+               <img class="delanobox" src='./Assets/Tosan/tosan 3.jpg' />
             </div>
 
             <div class="col-md-4 p-0 m-0">
-               <img class="delanobox" src='./img/Tosan/tosan 4.jpg' />
+               <img class="delanobox" src='./Assets/Tosan/tosan 4.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delanobox" src='./Assets/Tosan/home on mac.jpg' />
+            </div>
+
+            <div class="col-md-4 p-0 m-0">
+               <img class="delanobox" src='./Assets/Tosan/home on mac1.jpg' />
             </div>
          </div>
    </div>
