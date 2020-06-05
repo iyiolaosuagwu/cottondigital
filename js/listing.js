@@ -14,7 +14,7 @@ $(function() {
     else if(modal_id == 3)
       openNavFour();
     else if(modal_id == 4)
-      openNavFour();
+      openNav();
   }
 
   localStorage.setItem('modalID', '');
