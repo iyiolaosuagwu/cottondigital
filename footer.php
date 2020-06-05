@@ -4,7 +4,7 @@
         <!-- Grid row-->
         <div class="row py-3 d-flex ">
           <!-- Grid column -->
-          <div class="col-3 mr-auto  mb-4 ul-li mb-md-0 mt-2">
+          <div class="col-md-3 mr-auto  mb-4 ul-li mb-md-0 mt-2 move-center">
             <h2 class="mb-0 headers">CONTACT</h2>
             <p>
               <li class="digit">08093895270</li>
@@ -15,9 +15,9 @@
             </p>
           </div>
 
-          <div class="col-2"></div>
+          <div class="col-md-2"></div>
 
-          <div class="col-7 mb-4 mb-md-0  mt-2">
+          <div class="col-md-7 mb-4 mb-md-0  mt-2 move-center">
             <h2 class="mb-0 headers">FOLLOW US</h2>
 
             <div class="flex d-flex margin-l" style="margin-top: 13px;">

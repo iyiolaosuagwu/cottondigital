@@ -54,16 +54,16 @@
         <h3 class="text-uppercase client__text">Our Clients</h3>
         <div class="row">
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/helios.png" class="py-4" />
+            <img alt="" width="80%"  src="./img/helios.png" class="py-4 client-logo" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/BKC/bkg.jpeg" class="py-4"/>
+            <img alt="" width="80%" src="./Assets/bkg.jpeg" class="py-4 client-logo"/>
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/delano.png" class="py-4" />
+            <img alt="" width="80%" src="./img/delano.png" class="py-4 client-logo" />
           </div>
           <div class="col-lg-3">
-            <img alt="" width="80%" src="./img/77in.jpg" class="py-4" />
+            <img alt="" width="80%" src="./img/77in.jpg" class="py-4 client-logo" />
           </div>
         </div>
       </div>
@@ -81,8 +81,8 @@
         <div class="row" id="appt">
 
 
-          <div class='col-lg-3 col__pad' onClick="allCall()">
-            <a class='' href='works.php'>
+          <div class='col-lg-3 col__pad'>
+            <a class=''  onClick="allCall(1)">
               <div class='card card__height infra view overlay'>
                 <div class='card__text--div'>
                   <div class='mask red_over_lay card__text'>
@@ -96,8 +96,8 @@
             </a>
           </div>
 
-          <div class='col-lg-3 col__pad' onClick="allCall()">
-            <a class='' href='works.php'>
+          <div class='col-lg-3 col__pad'>
+            <a class=''  onClick="allCall(2)">
               <div class='card card__height Babajide view overlay'>
                 <div class='card__text--div'>
                   <div class='mask rgba-blue-strong card__text'>
@@ -111,13 +111,8 @@
             </a>
           </div>
 
-
-          
-
-
-
-          <div class='col-lg-3 col__pad' onClick="allCall()">
-            <a class='' href='works.php'>
+          <div class='col-lg-3 col__pad'>
+            <a class=''  onClick="allCall(3)">
               <div class='card card__height prime view overlay'>
                 <div class='card__text--div'>
                   <div class='mask yellow_over_lay card__text'>
@@ -134,8 +129,8 @@
 
 
 
-          <div class='col-lg-3 col__pad' onClick="allCall()">
-            <a class='' href='works.php'>
+          <div class='col-lg-3 col__pad'>
+            <a class=''  onClick="allCall(4)">
               <div class='card card__height delano-img view overlay'>
                 <div class='card__text--div'>
                   <div class='mask green_over_lay card__text'>
@@ -252,25 +247,17 @@
 
   <script>
     
-    // function myFunction() {
-    //   location.replace("/works.php")
-
-    //   let modal = document.querySelector("modal-window");
-
-    //   setTimeout(function() {
-    //     modal.style.visibility = 'visible';
-    //     console.log('yesss')
-    //   }, 2000);
-      
-    // }
-
+    async function allCall(id) {
+      await localStorage.setItem('modalID', id);
+      window.location = '/works.php';
+    }
     
   </script>
 
-  <script>
+  <!-- <script>
     MicroModal.show('modal-id'); // [1]
-    MicroModal.close('modal-id'); // [2]
-  </script>
+    MicroModal.close('modal-id'); // [2] -->
+  <!-- </script> -->
 </body>
 
 </html>

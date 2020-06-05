@@ -1032,3 +1032,102 @@ footer.page-footer a {
   font-size: 60px !important;
   line-height: 1.444;
 }
+
+@media (max-width: 560px) {
+  .index__header {
+    font-size: 35px;
+  }
+
+  .our__team {
+    color: #fff;
+    background: #3b80f6;
+    border-radius: 50px;
+    padding: 8px 30px;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 400;
+  }
+
+  ._22caps {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .lightlarge {
+    margin-top: 57px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 40px;
+    line-height: 1.6;
+    font-weight: 300;
+    text-align: center;
+    font-weight: 300;
+  }
+
+  .beutiful__text {
+    width: 100%;
+    line-height: 55px !important;
+  }
+
+  .learn__more {
+    border-radius: 50px;
+    background: #fff;
+    color: #468cfc;
+    text-transform: unset;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 30px;
+  }
+
+  .learn__more__two {
+    border-radius: 50px;
+    background: #468cfc;
+    color: #fff;
+    text-transform: unset;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 30px;
+  }
+
+  .client__text {
+    padding: 0px 0px 30px 0px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .project__listing {
+    padding: 50px 0px;
+  }
+
+  .have-a-project {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    line-height: 25px;
+  }
+
+  .move-center {
+    text-align: center;
+  }
+
+  .margin-l {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .social__icon {
+    display: flex;
+    justify-content: center;
+  }
+
+  .client-logo {
+    width: 50%;
+  }
+}
